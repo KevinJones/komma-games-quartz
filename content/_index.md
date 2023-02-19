@@ -3,7 +3,7 @@ title: 🪴 Quartz 3.
 enableToc: false
 ---
 
-**If you can read this, it works!**
+**If you can read this, it works!** If you can't read this, then apparently it doesn't work.
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
