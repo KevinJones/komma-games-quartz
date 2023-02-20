@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Komma Chameleon
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -9,8 +9,8 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: true
+enableRecentNotes: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
@@ -18,12 +18,13 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  A digital garden containing notes and thoughts on subjects like game design, technology, language, programming, writing, and more, run by Komma Chameleon.
 page_title:
-  "🪴 Quartz 3.3"
+  "🦎 Komma Games Notebook"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  - link_name: Mastodon
+    link: https://meow.social/@KommaChameleon
+  - link_name: Cohost
+    link: https://cohost.org/komma-chameleon
+  - link_name: Telegram
+    link: https://t.me/kommachameleon
