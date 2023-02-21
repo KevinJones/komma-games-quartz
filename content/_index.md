@@ -8,31 +8,17 @@ Welcome! I'm Kevin, but online people mostly call me Komma Chameleon. This websi
 ## Where to start?
 
 - [[About Me]]
-- [[1000 Awesome Hours with Video Games]]
-- [[Video Gaming]]
-- [[TTRPG Gaming]]
-- Essays
-- My Worldbuilding
-- Learning
-    - Game Design
-    - History
-    - Esperanto
-    - Linguistics
-    - Japanese
-    - Linux
-    - Music
-    - Psychology
-    - Typography
-- Programming
-    - C and C++
-    - C#
-    - Godot
-    - Graphics Programming
-    - JavaScript
-    - Kotlin
-    - Python
-    - Rust
-    - UE5
+- The [#best](tags/best) posts
+- Learn about my [[Game Reviews and Recommendations]]
+- Check out my [[Projects]]
+- Enjoy gaming in a variety of formats: [[Video Gaming]], [[Board Gaming]], and [[TTRPG Gaming]] 
+- [#essays](tags/essays) comprising significant thoughts
+- My gamedev/writing [[Worldbuilding]]
+- My [[Learning]] of various subjects
+- [[Programming]] and game development notes
+- My niche [[Furry]] content
+- Posts by status: [#rough](tags/rough), [#clean](tags/clean), or [#polished](tags/polished)
+- ...or pick a recently updated note from the list at the bottom of this page!
 
 ## What you should expect
 

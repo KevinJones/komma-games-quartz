@@ -2,7 +2,7 @@
 title: "About Me"
 tags:
 - #rough 
-- test tag
+- best
 ---
 
 I'm Kevin, known online mostly by my alias Komma Chameleon. I am a millennial born and raised in the southeast United States. (I don't always love it, but I don't have any plans to leave, either.) My educational background is in computer science (Georgia Tech, 2012) but my interests also include foreign languages, history, nature, writing, and games of every sort. What I want to do is bring ideas from my head into reality, to make the world a better place than it was when I found it, and to help the good people of the world treat each other with a little bit more calm and kindness.
