@@ -1,8 +1,7 @@
 ---
 title: "TTRPG Gaming"
-draft: true
 tags:
-- ttrpg-gaming 
+- ttrpg-gaming
 - rough
 ---
 
@@ -10,31 +9,31 @@ These are the notes I've collected about tabletop role-playing games. I'm a big 
 
 ## Start Here
 
-[What's an RPG?](RPG Primer)
-[What's an adventure module?](Adventure Module)
+[[RPG Primer|What's an RPG?]]  
+[[Adventure Module|What's an adventure module?]]  
 
 What kinds of RPGs are out there?
 
-[[RPG System Guide]], featuring D&D and its alternatives.
-[[RPGs for Kids]]
-[[RPGs with a Wargame Feel]]
-[[Light RPGs]]
-[[Crunchy RPGs]] (but [how do you determine if an RPG is light or heavy?](How to Determine if an RPG is Light or Heavy))
-[[Indie RPGs Recommended For Newcomers]]
+[[RPG System Guide]], featuring D&D and its alternatives.  
+[[RPGs for Kids]]  
+[[RPGs with a Wargame Feel]]  
+[[Light RPGs]]  
+[[Crunchy RPGs]] (but [[RPG: Light or Heavy|how do you determine if an RPG is light or heavy?]])  
+[[Indie RPGs Recommended For Newcomers]]  
 
 ## How to Have More Fun with RPGs
 
-[[Safety Tools]]
-[[Free RPG Play Aids]]
-[[TTRPGs You Can Play For Free]]
-[[Organize Your RPG PDFs with Calibre]]
+[[Safety Tools]]  
+[[Free RPG Play Aids]]  
+[[TTRPGs You Can Play For Free]]  
+[[Organize Your RPG PDFs with Calibre]]  
 
 ## Notes for Particular Games
 
-[[OSR Games]]
-[[Pathfinder 2e]]
-[[D&D 5e]]
-[[GURPS]]
+[[OSR Games]]  
+[[Pathfinder 2e]]  
+[[D&D 5e]]  
+[[GURPS]]  
 
 
-#ttrpg-gaming #rough 
+#ttrpg-gaming #rough
