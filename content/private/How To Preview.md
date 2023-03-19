@@ -1,0 +1,1 @@
+Assuming you already have hugo-obisidan installed, run `make serve` in your local quartz folder
