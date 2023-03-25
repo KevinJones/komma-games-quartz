@@ -1,0 +1,57 @@
+---
+title: "Game Review Tags"
+draft: true
+tags:
+- rough
+---
+## Tag Explanations
+
+All tags used on game pages have the "gc-" prefix.
+
+- #gc-rpg is a recommended game that meets the RPG criteria.
+- #gc-rpghm is an "honorable mention" of a notable RPG, but not one that I recommend as readily as others within that era.
+- RPG subdivisions
+	- #gc-action-rpg is an RPG where your timing and reflexes matter, usually because you have real-time continuous control over your character. Examples include *Torchlight*, *Dark Souls*, and *Odin Sphere*.
+	- #gc-real-time-rpg is an RPG with real-time combat but gives you the tools to automate or pause the action. Examples include *Final Fantasy XII*, *Fallout 3*, and *Baldur's Gate*.
+	- #gc-turn-based-rpg is an RPG where the action unfolds in a strictly turn-based manner and characters can't generally act simultaneously. Examples include *Dragon Quest XI*, *Darkest Dungeon*, and *XCOM*.
+- #gc-greatest-hits are like gold medalists; celebrated classic games that are popular for a reason. You can also think of this tag as "good games that are actually good".
+- #gc-hidden-gems are games you might not have heard of that are better than you would expect. I use this mostly for games of previous gaming generations that have been forgotten for whatever reason, even if they used to be popular.
+- #gc-multiplayer are games that are much better when played with a person you like.
+- These tags describe the kind of gamer I think will enjoy the game, based loosely on [survey categories from Quantic Foundry](https://quanticfoundry.com/2020/08/17/player-segments/). (See also [[Gamer Motivations]].)
+	- #gc-acrobat - The Acrobat is a solo gamer who primarily wants to take on challenging gameplay, practicing over and over again until they can take on the most difficult missions and bosses. They enjoy games like *[[gamerecs/Spelunky|Spelunky]]*, *[[gamerecs/Celeste|Celeste]]*, *[[gamerecs/Super Metroid|Super Metroid]]*, and *[[gamerecs/Tetris|Tetris]]*.
+	- #gc-gardener - The Gardener is a gamer looking for quiet, relaxing task completion. They want games where the rules are presented upfront, as directly as possible, and the gameplay itself is spontaneous rather than planned out in advance. The vibes are chill and the beats are lo-fi. They enjoy games like *Candy Crush Saga*, Solitaire, and *Animal Crossing*.
+	- #gc-slayer - The Slayer is a gamer who wants curated cinematic destruction. They feel a rush from chaos and mayhem in the context of a rich game world with an overarching story. They typically enjoy on-rails action-adventure games like *Uncharted* and *Tomb Raider*.
+	- #gc-sightseer - The Sightseer is a lot like the Slayer, but with a preference for less violence. Artisinal story experiences like *Firewatch*, *INSIDE*, or Telltale's *The Walking Dead* are favorites of the Sightseer.
+	- #gc-skirmisher - The Skirmisher wants fast-paced, social action games they can easily pick up and play. They probably enjoy online shooters such as *Call of Duty* or *Counter-Strike*, but don't take the competitive aspects too seriously. They are fine with match-based games where everything resets each match.
+	- #gc-gladiator - The Gladiator is a self-described "hardcore" gamer who wants an experience that's truly epic. Their ideal game has a broad spectrum of features including: power progression, team arenas, fast-paced play, challenges that require strategic thinking, and a rich world with tons of lore. They often enjoy games like *Destiny*, *Gears of War*, *Monster Hunter*, or *Black Desert Online*.
+	- #gc-ninja - The Ninja is a gamer who wants to take on difficult challenges that also involve strategic decision making, fast-paced play, and competition. They don't care as much about in-game progression as they do skill-based mastery and their own accomplishments. They might play games like *StarCraft*, *Street Fighter*, *Super Smash Brothers*, *osu!*, or *League of Legends*.
+	- #gc-bounty-hunter - The Bounty Hunter wants an open game world that they can make their own. They want to explore stuff, build stuff, and power up their characters in the context of the world. Popular games for the Bounty Hunter include *Saints Row*, *Mass Effect*, *Far Cry*, *The Elder Scrolls*, and *Fallout*.
+	- #gc-architect - The Architect wants planning and decision-making that leads to progression and task completion, often in a game with an interesting setting or story. Maybe you are putting together a functional craft economy on Mars, playing politics in a medieval monarchy, or figuring out just the right combination of abilities and party members to exorcise the wretched sea ghosts from the pirates' den. The Architect strongly prefers solo gameplay with games that are slow-paced, relaxing, or serene. They often play games like *Civilization*, *Europa Universalis*, *Banished*, or *Pillars of Eternity*.
+	- #gc-bard - The Bard is a social gamer who wants to chat and interact with other players in game worlds that are rich with lore, stories, discovery, and customization. They care little about power progression and task completion. They just want to experience the game world organically. Their popular games include titles like *The Secret World*, *Final Fantasy XIV*, and *Animal Crossing*.
+		- Games for the Bard are usually multiplayer, but games that have a big emphasis on sharing your own creations or participating in an online fandom are also appealing to the Bard.
+- Some specific genre tags (a non-exhaustive list): 
+	- Action
+		- #gc-shooter - Games where you use ranged weapons to take place in the action, regardless of camera perspective (FPS, TPS, or overhead).
+		- #gc-shmup - A 2D shooting game where you shoots at a large number of enemies while dodging patterns of relatively slow-moving fire. Games with this tag are not also tagged with #gc-shooter .
+		- #gc-platformer - Games where the core objective is to move your character between points in an environment of uneven terrain and suspended platforms using acrobatic maneuvers that you have expressive control over.
+		- #gc-fighting - Games focused on "evenly matched" hand-to-hand combat between two or more characters, often with mechanics like blocking, grappling, and the ability to chain attacks into combos. Often designed for competitive play between two players.
+		- #gc-brawler - Games focused on hand-to-hand combat where the player takes on many opponents simultaneously. Often designed for cooperative or single-player play.
+		- #gc-racing - Any action game where you participate in a racing competition, whether it involves arcade-style simplicity or realistic simulation.
+	- #gc-pure-adventure - Games that focus on people, plots, and puzzles, often with a simple "point-and-click" interface. I call them "pure" because they don't include elements of action or strategy. *Grim Fandango* is a pure adventure game, while *Ocarina of Time* is not.
+	- #gc-puzzle - any game where you primarily solve puzzles using logic, pattern recognition, sequence solving, or spatial reasoning. This includes games that require quick thinking such as *Puyo Puyo* as well as more laid-back experiences.
+	- #gc-horror - any game that feels like horror fiction, regardless of the type of gameplay.
+	- #gc-management-sim - A game where you run a business, government, or community and try to make it thrive using limited resources within an ongoing simulated process. This includes city-builders, tycoon games, farming games, and colony management games.
+	- #gc-vehicle-sim - A game that simulates the operation of some kind of vehicle, be it real or fictional, from the perspective of its pilot or driver. They focus on presenting the vehicle in a realistic manner (or a beliveable fantasy) and may allow you to adjust the degree of realism you want in your experience (collision physics, fuel management, navigation aids).
+	- Strategy/Tactics/War
+		- In video games, "strategy" almost always refers to a game that simulates large-scale military conflict. A game where you strategically run a business or manage a peaceful community is tagged as #gc-management-sim . Abstrac games like chess, Go, or *Azul* where you must plan ahead in order to score points or complete a goal might be #gc-puzzle or #gc-cardboard . This is a narrower meaning for strategy than the word as applied to board games.
+		- *Real-Time vs Turn-Based:* A real-time game is one where you have to make decisions in a constantly changing game state. A turn-based game is one where you have ample time to deliberate. I classify games that unfold in continuous time but pause for key events as turn-based. Real-time games where you merely have access to a manual pause are still tagged as real time.
+		- *Strategy vs Tactics:* These terms are often confused in video games. I'll use a simplified definition: in strategy games, you can easily produce units and build more buildings. In tactics games, you can't. In strategy games, you win by controlling more "money" resources and creating an efficient production pipeline. In tactics games, you win by using your limited forces effectively, controlling key defensive terrain, and using every individual unit to its maximum effect.
+			- Even so, the distinction is blurry--in a strategy game like *StarCraft*, effective tactics allow a small force to take on a nominally stronger opponent. You can create more units in most missions of *Advance Wars*, but its resource economy is very simple, and figuring out ideal ways to solve its tactical puzzles is key to progressing through the campaign.
+		- #gc-real-time-strategy - The genre of *Age of Empires*, *StarCraft*, *Total Annihilation*, and *Command & Conquer*. These games typically allow players to gather resources, construct bases, research upgrades, and produce new fighting units. The scope of strategy is usually smaller than in turn-based strategy games. This tag includes simpler tower defense games like *Bloons* and *Plants vs Zombies*.
+		- #gc-real-time-tactics - A real-time game with focus on complex battlefield tactics using a relatively small number of units.
+		- #gc-turn-based-strategy
+		- #gc-turn-based-tactics
+		- #gc-4X - "eXplore, eXpand, eXploit, eXterminate." A strategy game where a player controls an empire and is in a competition to develop its economy and technology to reach one of the game's victory conditions or eliminate every other player. Usually turn-based, but might be real-time or a mix.
+	- #gc-cardboard - Video games that adapt an existing card or board game to digital form, or simulate one that could exist.
+	- #gc-trad-roguelike - A game resembling *Rogue*; that is, a 2D turn-based hack-and-slash dungeon crawl with a high degree of randomness and procedural generation, emphasis on statistical character development, and use of run-based play (permadeath) with minimal persistent elements between runs. This includes *Angband*, *NetHack*, *Tales of Maj'Eyal*, and so forth.
+	- #gc-modern-roguelike - Any game that that uses roguelike elements such as run-based play and procedural generation, but might have action-based gameplay, character development between runs, objectives that differ from the standard hack-and-slash, etc. This includes *Spelunky*, *Hades*, *FTL: Faster Than Light*, *Slay the Spire*, and so on.
