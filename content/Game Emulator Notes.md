@@ -1,5 +1,6 @@
 ---
 title: "Game Emulator Notes"
+draft: true
 tags:
 - #rough 
 ---

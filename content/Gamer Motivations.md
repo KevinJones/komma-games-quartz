@@ -162,7 +162,7 @@ This gamer motivation model is one way to understand the different reasons vario
 
 Its main limitation is that it is very generalized. It has limited power to describe an individual person's habits (which might apparently contradict themselves) or preferences in the community of a particular game. The number of segments is also arbitrary; there might be applications where more divisions or fewer prove more useful.
 
-For a more "pick one" classification, if you want a drop-in replacement for Bartle types, you might look at the [[Nine Player Segments]].
+For a more "pick one" classification, if you want a drop-in replacement for Bartle types, you might look at the [[Ten Player Profiles]].
 
 
 # Further Reading

@@ -164,3 +164,13 @@ This era breakdown switches from following hardware leaps to periods of the cale
 	- Games for the Bard
 - By theme
 	- Horror Games
+	- Fantasy Games
+	- Crime/Mystery Games
+	- Historical Games
+- By setting
+	- Ancient History
+	- Post-Classical
+	- Modern History
+	- Contemporary
+	- Futuristic
+	- Space
