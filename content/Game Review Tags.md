@@ -10,7 +10,9 @@ All tags used on game pages have the "gr-" prefix, to distinguish them from othe
 ## Basic Tags
 
 - #gr-greatest-hits are like gold medalists; celebrated classic games that are popular for a reason. You can also think of this tag as "good games that are actually good".
+	- Ones that appear in the top 100 on videogamecanon are a good start.
 - #gr-hidden-gems are games you might not have heard of that are better than you would expect. I use this mostly for games of previous gaming generations that have been forgotten for whatever reason, even if they used to be popular.
+	- Any game specifically covered in a YouTube video that has more than 100,000 views is disqualified from being called a hidden gem. This doesn't count soundtrack videos.
 - #gr-multiplayer are games that are much better when played with a person you like.
 - #gr-hm are "honorable mentions"; the main list's overflow. There are games that I can't really recommend going out to play casually, but have some interesting impact or history to them. Games with this tag are excluded from the main lists.
 - #gr-rpg is a recommended game that meets the RPG criteria, moving it to the RPG lists instead of the main lists.
@@ -77,3 +79,23 @@ These tags describe the kind of gamer I think will enjoy the game, based loosely
 #gr-bounty-hunter - give me a world to make my own.
 #gr-architect - give me something to build.
 #gr-bard - give me a community.
+
+## Developer Region Tags
+List when the developer's primary region is known.
+
+#gr-na-dev - Developed in Canada, the United States, Mexico, or elsewhere in North America.
+#gr-sa-dev - Developed in Brazil or elsewhere in South America.
+
+#gr-uk-dev - Developed in the United Kingdom.
+#gr-eu-dev - Developed somewhere in continental Europe, not including Russia.
+#gr-rus-dev - Developed in Russia.
+#gr-aus-dev - Developed in Australia or Oceania, not including Hawaii.
+
+#gr-jp-dev - Developed in Japan.
+#gr-cn-dev - Developed in China, including Hong Kong.
+#gr-kr-dev - Developed in South Korea.
+#gr-sea-dev - Developed in one of the countries of Southeast Asia, such as Indonesia or the Philippines.
+#gr-west-asia-dev - Developed in one of the countries of Western Asia, Central Asia, or South Asia. This includes India, Israel, Saudi Arabia, Iran, and Uzbekistan, among others.
+
+#gr-north-africa-dev - Developed in one of the countries of North Africa, from Morocco to Sudan.
+#gr-ssa-dev - Developed in one of the countries of sub-Saharan Africa, such as Nigeria or Ethiopia.

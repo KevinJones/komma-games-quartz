@@ -1,0 +1,38 @@
+---
+title: "TitleHere"
+draft: true
+platforms: []
+tags:
+- rough
+---
+
+(oneliner:: Describe this game.)
+
+Developer:: 
+Publisher:: 
+Release Date:: 1970-01-31
+
+Why play this?
+
+Play Today::
+
+
+Template checklist
+- [ ] add developer, publisher, release date, date spec, and console array
+- [ ] add "play today" links
+- [ ] add one-liner
+- [ ] describe why it should be played
+- [ ] Add basic tags: greatest hit? hidden gem? multiplayer?
+- [ ] is it hm or is it the main list?
+- [ ] is it an rpg? an rpghm?
+- [ ] what gameplay tags apply?
+	- shooter, shmup, platformer, fighting, brawler, pure-adventure, puzzle, management-sim, vehicle-sim, real-time-strategy, real-time-tactics, turn-based-strategy, turn-based-tactics, 4X, cardboard, trad-roguelike, modern-roguelike, action-rpg, real-time-rpg, turn-based-rpg
+- [ ] what time setting applies?
+	- ancient, post-classical, modern-history, contemporary, futuristic, space
+- [ ] what other theme tags apply?
+	- historical, horror, fantasy, crime-and-mystery
+- [ ] what gamer profile tags apply?
+	- acrobat, gardener, slayer, sightseer, skirmisher, gladiator, ninja, bounty-hunter, architect, bard
+- [ ] where was it made?
+	- na, uk, eu, jp?
+	- sa, rus, aus, cn, kr, sea, west-asia, north-africa, ssa
