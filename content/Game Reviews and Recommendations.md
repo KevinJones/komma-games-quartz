@@ -14,7 +14,7 @@ So here are the rules you need to know:
 - This is a tour through classic video games from all eras of the industry, split into chunks that are about a decade long. To limit the scope, each chunk is limited to about 1,000 hours in length, based on the time you'd need to invest to experience what the game has to offer. This means the list tends to put a bigger emphasis on short, excellent games when it can, rather than games that meander or are stuffed with filler content.
 	- "Time to complete" is an approximation taken from the "Main+Extra" time reported by the users of [HowLongToBeat](https://howlongtobeat.com/).
 	- If you spend 10 hours a week playing video games, then 1,000 hours would take you about two years to finish.
-	- Role-playing games are separated from the rest of the chunk because they are usually longer but you can play them more passively.
+	- Role-playing games are separated from the rest of the chunk because they are usually longer but you can play them more passively. See [what this list considers an RPG](GR%20-%20What%20is%20an%20RPG%20Video%20Game.md)
 - I focus on games that are still fun or exciting if you play them today. I don't mean that you can start up *Faxanadu* and get something as thrilling as *Elden Ring*, but that if you approach the game on its own terms you can have a fun time with it. I also focus on the experience of playing the game on today's technology, in a modern source port or emulator. Games that have some interesting aspects but aren't quite as easy to pick up and enjoy are listed in a separate table.
 	- For example, *Lemmings* plays much better in *NeoLemmix*, which adds features such as an undo button to the puzzler.
 	- You should always play according to your own preferences, but I recommend that you use save states/rewind sparingly on games you play for their challenge, and fast-forward through the repetitive parts of RPGs.
@@ -30,21 +30,9 @@ What this list considers "current hardware":
 
 It doesn't consider streaming services like PlayStation Now and generally can't keep up with game releases on mobile platforms like Android and iOS.
 
-What does this list consider an RPG?
-- Either it meets all these criteria:
-	1. It is primarily a single-player or cooperative experience, rather than competitive.
-	2. It has some kind of number-based character **development** that goes beyond the simple collection of items.
-	3. It has a system for **combat** (or another interaction) where effectiveness is dependent to some degree on character attributes.
-	4. It has a flexible **inventory** with items that are not just based around solving puzzles. This typically means weapons, armor, gadgets, magic items, food/drink/medicine, or money.
-- Or it's something that's popularly known as an RPG, regardless of those criteria.
-- Criteria not considered:
-	- Whether the game is turn-based or real-time.
-	- Whether you play as a "blank slate" character or one with a personality defined by the game's writers.
-	- Whether the game asks you to make choices that affect the outcome of the game's storylines.
-	- Whether the game "feels like" a movie, a novel, an anime, a tabletop game, or a sandbox.
-	- What kind of setting the game has.
-	- Whether the game has character classes/differing builds.
-	- Whether you are "playing the role of a character", whatever that means.
+
+
+![GR - What is an RPG Video Game](GR%20-%20What%20is%20an%20RPG%20Video%20Game.md)
 
 See [[Game Emulator Notes]] for a few practical tips on running old games.
 

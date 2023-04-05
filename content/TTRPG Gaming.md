@@ -9,7 +9,7 @@ These are the notes I've collected about tabletop role-playing games. I'm a big 
 
 ## Start Here
 
-[[RPG Primer|What's an RPG?]]  
+[[TTRPG Primer|What's an RPG?]]  
 [[Adventure Module|What's an adventure module?]]  
 
 What kinds of RPGs are out there?

@@ -1,7 +1,8 @@
 ---
 title: "TitleHere"
 draft: true
-platforms: []
+platforms:
+- here
 tags:
 - rough
 ---
@@ -22,11 +23,16 @@ Template checklist
 - [ ] add "play today" links
 - [ ] add one-liner
 - [ ] describe why it should be played
-- [ ] Add basic tags: greatest hit? hidden gem? multiplayer?
+- [ ] Add basic tags: greatest hit? hidden gem? best in multiplayer? supports multiplayer?
 - [ ] is it hm or is it the main list?
 - [ ] is it an rpg? an rpghm?
 - [ ] what gameplay tags apply?
-	- shooter, shmup, platformer, fighting, brawler, pure-adventure, puzzle, management-sim, vehicle-sim, real-time-strategy, real-time-tactics, turn-based-strategy, turn-based-tactics, 4X, cardboard, trad-roguelike, modern-roguelike, action-rpg, real-time-rpg, turn-based-rpg
+	- [ ] Action: 2d-shooter, 3d-shooter, shmup, platformer, fighting, brawler, racing, action-adventure
+	- [ ] Strategy: real-time-strategy, real-time-tactics, turn-based-strategy, turn-based-tactics, 4X, 
+	- [ ] RPG: action-rpg, real-time-rpg, turn-based-rpg
+	- [ ]  Sims: management-sim, vehicle-sim, 
+	- [ ] Roguelike: trad-roguelike, modern-roguelike, 
+	- [ ] Other: pure-adventure, puzzle, cardboard
 - [ ] what time setting applies?
 	- ancient, post-classical, modern-history, contemporary, futuristic, space
 - [ ] what other theme tags apply?

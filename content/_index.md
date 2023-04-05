@@ -3,6 +3,8 @@ title: Komma Games Notebook
 enableToc: false
 ---
 
+[Markdown DataTable example](private/Markdown%20DataTable%20example.md)
+
 Welcome! I'm Kevin, but online people mostly call me Komma Chameleon. This website is an open notebook; a digital garden of my research and thoughts on subjects like writing, history, nature, foreign languages, and games of all kinds. My goal is to build up a public body of knowledge that anybody can wander through.
 
 ## Where to start?

@@ -4,11 +4,13 @@ draft: true
 platforms: [ps4, xb1, switch, win, mac]
 tags:
 - rough
-- #gr-platformer 
-- #gr-contemporary 
-- #gr-acrobat 
-- #gr-na-dev 
+- gr-platformer 
+- gr-contemporary 
+- gr-acrobat 
+- gr-na-dev 
 ---
+
+
 
 (oneliner:: Face your doubts and climb a mountain in this precise platformer.)
 
