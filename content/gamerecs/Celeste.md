@@ -17,6 +17,7 @@ tags:
 Developer:: Maddy Makes Games
 Publisher:: Maddy Makes Games
 Release Date:: 2018-01-25
+Hours:: 14
 
 Play Today:: [Steam](https://store.steampowered.com/app/504230/Celeste/) or [Switch](https://www.nintendo.com/games/detail/celeste-switch)
 

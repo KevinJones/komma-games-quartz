@@ -18,6 +18,7 @@ tags:
 Developer:: Mossmouth
 Publisher:: Mossmouth
 Release Date:: 2008-12-21
+Hours:: 44
 
 I think Spelunky the game that caused action roguelikes to explode over the 2010s. It applies ideas from turn-based roguelikes, like procedural level generation, costly death, and a rich palette of object interactions, and fits them into a zippy 2D platformer. It's a tough but rewarding challenge (you will die a lot and might never beat it), with more mass appeal than its text-based ancestors and more depth than the memorize-and-recite platformers common on the NES and SNES. To be honest, it's also a better game than a lot of the stuff it inspired. Hand-crafted game spaces will always have a place in the media landscape, but Spelunky proved random levels can work with real-time action.  
   

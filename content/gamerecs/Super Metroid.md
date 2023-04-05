@@ -21,6 +21,7 @@ tags:
 Developer:: Nintendo R&D 1, Intelligent Systems
 Publisher:: Nintendo
 Release Date:: 1994-03-19
+Hours:: 8.5
 
 I mean, c'mon. It's Super Metroid.
 

@@ -1,5 +1,5 @@
 ---
-title: "DEBUG Game Lists"
+title: "DataView Game Lists"
 draft: true
 tags:
 - #rough 
@@ -10,9 +10,32 @@ This is a list of queries.
 ## Complete Game Recommendation List
 
 ```typescript
-dv.page('"gamerecs"')
+
+const pages = dv.pages('"gamerecs"')
+const data = pages
 	.sort(b => b["release-date"])
-	.map(b => [b.file.link, b.developer, b.publisher, b["release-date"], b.oneliner, b["play-today"]]);
+	.map(b => [b.file.link, b.developer, b.publisher, b.hours, b["release-date"], b["play-today"]])
+const count = data.length
+const hrs = pages.map(b => b.hours).array().reduce((acc, obj) => acc + (obj || 0), 0)
+const headers = ["File", "Developer", "Publisher", "Hours", "Release Date", "Play Today"]
+
+// then render it as desired.
+dv.table(headers, data)
+dv.paragraph(`Totals: ${count} games, ${hrs} hours.`)
+```
+
+```dataviewjs
+let headers = ["File", "Developer", "Publisher", "Hours", "Release Date", "Play Today"];
+let pages = dv.pages('"gamerecs"')
+let data = pages
+	.sort(b => b["release-date"])
+	.map(b => [b.file.link, b.developer, b.publisher, b.hours, b["release-date"], b["play-today"]]);
+
+dv.table(headers, data);
+
+let count = data.length;
+let hrs = pages.map(b => b.hours).array().reduce((acc, obj) => acc + (obj || 0), 0);
+dv.paragraph(`Totals: ${count} games, ${hrs} hours.`)
 ```
 
 ## Lists that look for tags
