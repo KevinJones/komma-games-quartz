@@ -3,6 +3,7 @@ title: "TitleHere"
 draft: true
 platforms:
 - here
+date-spec: d
 tags:
 - rough
 ---
@@ -12,6 +13,7 @@ tags:
 Developer:: 
 Publisher:: 
 Release Date:: 1970-01-31
+Hours::
 
 Why play this?
 
@@ -30,7 +32,7 @@ Template checklist
 	- [ ] Action: 2d-shooter, 3d-shooter, shmup, platformer, fighting, brawler, racing, action-adventure
 	- [ ] Strategy: real-time-strategy, real-time-tactics, turn-based-strategy, turn-based-tactics, 4X, 
 	- [ ] RPG: action-rpg, real-time-rpg, turn-based-rpg
-	- [ ]  Sims: management-sim, vehicle-sim, 
+	- [ ] Sims: management-sim, vehicle-sim, 
 	- [ ] Roguelike: trad-roguelike, modern-roguelike, 
 	- [ ] Other: pure-adventure, puzzle, cardboard
 - [ ] what time setting applies?

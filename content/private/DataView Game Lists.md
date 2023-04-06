@@ -21,9 +21,9 @@ const headers = ["File", "Developer", "Publisher", "Hours", "Release Date", "Pla
 
 // then render it as desired.
 dv.table(headers, data)
-dv.paragraph(`Totals: ${count} games, ${hrs} hours.`)
+dv.paragraph(`Totals: ${count} games, ${hrs.toFixed(1)} hours.`)
 ```
-
+TODO: respect the formatting suggested by the date-spec field
 ```dataviewjs
 let headers = ["File", "Developer", "Publisher", "Hours", "Release Date", "Play Today"];
 let pages = dv.pages('"gamerecs"')
@@ -35,7 +35,7 @@ dv.table(headers, data);
 
 let count = data.length;
 let hrs = pages.map(b => b.hours).array().reduce((acc, obj) => acc + (obj || 0), 0);
-dv.paragraph(`Totals: ${count} games, ${hrs} hours.`)
+dv.paragraph(`Totals: ${count} games, ${hrs.toFixed(1)} hours.`)
 ```
 
 ## Lists that look for tags
