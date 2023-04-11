@@ -19,6 +19,7 @@ Why play this?
 
 Play Today::
 
+---
 
 Template checklist
 - [ ] add developer, publisher, release date, date spec, and console array
@@ -38,7 +39,7 @@ Template checklist
 - [ ] what time setting applies?
 	- ancient, post-classical, modern-history, contemporary, futuristic, space
 - [ ] what other theme tags apply?
-	- historical, horror, fantasy, crime-and-mystery
+	- historical, horror, fantasy, crime-and-mystery, war
 - [ ] what gamer profile tags apply?
 	- acrobat, gardener, slayer, sightseer, skirmisher, gladiator, ninja, bounty-hunter, architect, bard
 - [ ] where was it made?
