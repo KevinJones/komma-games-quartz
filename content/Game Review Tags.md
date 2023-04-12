@@ -82,6 +82,7 @@ RPG definition: development, combat, inventory. [[GR - What is an RPG Video Game
 - #gr-horror - any game that feels like horror fiction, seeking to elicit an entertaining fear or disgust, regardless of the type of gameplay.
 - #gr-fantasy - games that make the impossible seem real, often with a narrative inspired by human myth and in a fictional universe. Contrast with "historical".
 - #gr-sci-fi - games that have some grounding (even loosely) in science and logic, with a story that explores the consequences of scientific advancement or new discoveries.
+- #gr-war - games set in a real or fictional military conflict where you play as a soldier, general, or military technician. Fantasty wars aren't included
 - #gr-crime-and-mystery - games about crime or its detection.
 
 ## Gamer Profile Tags
