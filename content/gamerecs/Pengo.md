@@ -8,6 +8,7 @@ tags:
 - rough
 - #gr-jp-dev 
 - #gr-puzzle 
+- #gr-maze-game 
 ---
 
 (oneliner:: Slide ice cubes around to crush baddies.)

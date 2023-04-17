@@ -31,6 +31,7 @@ All tags used on game pages have the "gr-" prefix, to distinguish them from othe
 - #gr-brawler - Games focused on hand-to-hand combat where the player takes on many opponents simultaneously. Often designed for cooperative or single-player play.
 - #gr-racing - Any action game where you participate in a racing competition, whether it involves arcade-style simplicity or realistic simulation.
 - #gr-action-adventure - Action games that also include significant elements of exploration, puzzle-solving, item management, or interactive storytelling. This is both subjective and quite broad. "Metroidvanias" are action-adventure games that are also platformers.
+- #gr-maze-game - A 2D action game taking place entirely in a maze, where players have to do things like escape monsters, outrace an opponent, or navigate all areas of the maze within a time limit. Players often don't have actions other than movement. Maze games where planning ahead is important are also tagged #gr-puzzle . Classic examples include [[gamerecs/Pac-Man|Pac-Man]] and [[gamerecs/Wizard of Wor|Wizard of Wor]], while more recent ones include *Super Bomberman R* and *Pix the Cat*.
 
 ### Strategy
 

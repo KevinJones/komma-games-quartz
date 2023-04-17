@@ -12,6 +12,7 @@ tags:
 - #gr-puzzle 
 - #gr-fantasy 
 - #gr-skirmisher 
+- #gr-maze-game 
 ---
 
 (oneliner:: Wizards blast enemies in a maze.)

@@ -1,5 +1,5 @@
 ---
-title: "TitleHere"
+title: "Lock 'n' Chase"
 draft: true
 platforms:
 - here
@@ -9,9 +9,10 @@ tags:
 - #gr-jp-dev 
 - #gr-puzzle 
 - #gr-acrobat 
+- #gr-maze-game 
 ---
 
-(oneliner:: Describe this game.)
+(oneliner:: Get the dots, ditch the cops.)
 
 Developer:: Data East
 Publisher:: Data East, Taito

@@ -10,6 +10,7 @@ tags:
 - #gr-puzzle 
 - #gr-gardener 
 - #gr-acrobat 
+- #gr-maze-game 
 ---
 
 (oneliner:: A snake pursues food.)

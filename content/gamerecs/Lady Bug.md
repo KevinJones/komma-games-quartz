@@ -11,7 +11,7 @@ tags:
 - #gr-puzzle 
 ---
 
-(oneliner:: Describe this game.)
+(oneliner:: Spin walls to keep monsters away from your flowers.)
 
 Developer:: Universal
 Publisher:: Taito

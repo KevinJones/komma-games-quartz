@@ -11,6 +11,7 @@ tags:
 - #gr-best-in-multiplayer 
 - #gr-skirmisher 
 - #gr-na-dev 
+- #gr-maze-game 
 ---
 
 (oneliner:: 2 player only maze combat.)

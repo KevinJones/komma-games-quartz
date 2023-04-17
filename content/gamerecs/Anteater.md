@@ -9,6 +9,7 @@ tags:
 - #gr-na-dev 
 - #gr-puzzle 
 - #gr-acrobat 
+- #gr-maze-game 
 ---
 
 (oneliner:: An anteater catches ants with its tongue.)

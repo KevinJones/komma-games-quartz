@@ -11,6 +11,7 @@ tags:
 - #gr-puzzle 
 - #gr-acrobat 
 - #gr-gardener 
+- #gr-maze-game 
 ---
 
 (oneliner:: Eat dots and avoid ghosts.)

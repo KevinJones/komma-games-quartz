@@ -9,6 +9,7 @@ tags:
 - #gr-na-dev 
 - #gr-puzzle 
 - #gr-acrobat 
+- #gr-maze-game 
 ---
 
 (oneliner:: A snake in a maze.)

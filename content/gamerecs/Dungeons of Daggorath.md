@@ -8,6 +8,8 @@ tags:
 - rough
 - #gr-rpghm 
 - #gr-real-time-rpg 
+- #gr-fantasy 
+- #gr-post-classical 
 ---
 
 (oneliner:: First-person, real time, fantasy maze dungeon.)
@@ -15,7 +17,7 @@ tags:
 Developer:: DynaMicro
 Publisher:: Tandy Corporation
 Release Date:: 1982-01-01
-Hours:: 0.2
+Hours:: 0.5
 
 *Daggorath* has a weird interface and is hard to play, but is also much creepier than it has any right to be. Your character's health is represented by a heartbeat that gradually speeds up when you exert yourself in combat. The halls you explore are dark and quiet, save for the scurrying of monsters. It's also notable just for being one of the first games that attempted to portray 3D space with real-time gameplay, especially for home computers.
 
@@ -45,30 +47,3 @@ To clarify, if you've got something in both hands, and you want to move somethin
 Attack with the A command: `A R` to swing the sword. You can't see your health, but you'll want to run away from enemies if your heart is beating too fast. The only way to reduce your heartrate is by standing still. Your heart grows stronger by a little bit with every monster you defeat.
 
 Once you get used to moving around and surviving your first few monster encounters, you'll want to start mapping out the dungeon and work your way to deeper levels. Save with `ZSAVE SAVEONE` and load with `ZLOAD SAVEONE`. 
-
----
-
-Template checklist
-- [ ] add developer, publisher, release date, date spec, and console array
-- [ ] add "play today" links
-- [ ] add one-liner
-- [ ] describe why it should be played
-- [ ] Add basic tags: greatest hit? hidden gem? best in multiplayer? supports multiplayer?
-- [ ] is it hm or is it the main list?
-- [ ] is it an rpg? an rpghm?
-- [ ] what gameplay tags apply?
-	- [ ] Action: 2d-shooter, 3d-shooter, shmup, platformer, fighting, brawler, racing, action-adventure
-	- [ ] Strategy: real-time-strategy, real-time-tactics, turn-based-strategy, turn-based-tactics, 4X, 
-	- [ ] RPG: action-rpg, real-time-rpg, turn-based-rpg
-	- [ ] Sims: management-sim, vehicle-sim, 
-	- [ ] Roguelike: trad-roguelike, modern-roguelike, 
-	- [ ] Other: pure-adventure, puzzle, cardboard
-- [ ] what time setting applies?
-	- ancient, post-classical, modern-history, contemporary, futuristic, space
-- [ ] what other theme tags apply?
-	- historical, horror, fantasy, crime-and-mystery, war, sci-fi
-- [ ] what gamer profile tags apply?
-	- acrobat, gardener, slayer, sightseer, skirmisher, gladiator, ninja, bounty-hunter, architect, bard
-- [ ] where was it made?
-	- na, uk, eu, jp?
-	- sa, rus, aus, cn, kr, sea, west-asia, north-africa, ssa

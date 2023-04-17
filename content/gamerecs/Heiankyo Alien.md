@@ -12,6 +12,7 @@ tags:
 - #gr-post-classical 
 - #gr-fantasy 
 - #gr-acrobat 
+- #gr-maze-game 
 ---
 
 (oneliner:: Dig holes to trap aliens.)
