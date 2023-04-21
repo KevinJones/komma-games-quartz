@@ -17,7 +17,7 @@ XIII
 Axis & Allies (pc board game conversion 1998)
 Battle Bugs (1994)
 Bioforge
-Outpost 2
+Outpost 2 (Outpost Bandit version)
 Deathtrack
 The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel
 KGB / Conspiracy (amiga, 1992)
@@ -32,6 +32,14 @@ Mazin Saga: Mutant Fighter (gen)
 Trouble Shooter (gen)
 Fighting Masters (gen)
 Langrisser 2 fan translation (gen)
+The Dark Heart of Uukrul
+Cataclysm DDA
+Muri
+Alien Legacy
+Manic Miners (itchio Rock Raiders remake)
+Murder Club (dos)
+Uncharted Waters (dos)
+Advanced Civilization (dos)
 
 Rocket Jockey (needs PCem)
 
