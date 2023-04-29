@@ -1,4 +1,6 @@
 
+Crackpots - is it any good compared to kaboom?
+
 Interstate 76 (w/ 30fps lock)
 THUG Pro
 Prey 2006
