@@ -3,6 +3,7 @@ title: "Spelunky"
 draft: true
 platforms:
 - win
+date-spec: d
 tags:
 - rough
 - gr-platformer

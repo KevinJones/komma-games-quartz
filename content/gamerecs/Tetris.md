@@ -4,6 +4,7 @@ draft: true
 platforms:
 - nes
 - gb
+date-spec: d
 tags:
 - rough
 - #gr-rus-dev 

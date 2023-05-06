@@ -3,6 +3,7 @@ title: "Super Metroid"
 draft: true
 platforms:
 - snes
+date-spec: d
 tags:
 - rough
 - #gr-greatest-hits 

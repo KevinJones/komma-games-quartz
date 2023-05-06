@@ -2,6 +2,7 @@
 title: "Celeste"
 draft: true
 platforms: [ps4, xb1, switch, win, mac]
+date-spec: d
 tags:
 - rough
 - gr-platformer 

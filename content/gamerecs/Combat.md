@@ -3,6 +3,7 @@ title: "Combat"
 draft: true
 platforms:
 - atari 2600
+date-spec: d
 tags:
 - rough
 - #gr-best-in-multiplayer 

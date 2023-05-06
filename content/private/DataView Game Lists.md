@@ -10,11 +10,31 @@ This is a list of queries.
 ## Complete Game Recommendation List
 
 ```typescript
+function expressDate(dateString, detail) {
+    const date = new Date(dateString);
+    let output = "";
+
+    switch (detail) {
+        case "y":
+            output = date.getFullYear().toString();
+            break;
+        case "m":
+            output = `${date.toLocaleString("default", { month: "long" })} ${date.getFullYear().toString()}`;
+            break;
+        case "d":
+            output = `${date.toLocaleString("default", { month: "long" })} ${date.getDate().toString()}, ${date.getFullYear().toString()}`;
+            break;
+        default:
+            throw new Error("Level of date detail must be 'y', 'm', or 'd'.");
+        }
+
+    return output;
+}
 
 const pages = dv.pages('"gamerecs"')
 const data = pages
 	.sort(b => b["release-date"])
-	.map(b => [b.file.link, b.developer, b.publisher, b.hours, b["release-date"], b["play-today"]])
+	.map(b => [b.file.link, b.developer, b.publisher, b.hours, expressDate(b["release-date"], b["date-spec"]), b["play-today"]])
 const count = data.length
 const hrs = pages.map(b => b.hours).array().reduce((acc, obj) => acc + (obj || 0), 0)
 const headers = ["File", "Developer", "Publisher", "Hours", "Release Date", "Play Today"]
@@ -23,18 +43,38 @@ const headers = ["File", "Developer", "Publisher", "Hours", "Release Date", "Pla
 dv.table(headers, data)
 dv.paragraph(`Totals: ${count} games, ${hrs.toFixed(1)} hours.`)
 ```
-TODO: respect the formatting suggested by the date-spec field
 ```dataviewjs
-let headers = ["File", "Developer", "Publisher", "Hours", "Release Date", "Play Today"];
-let pages = dv.pages('"gamerecs"')
-let data = pages
+function expressDate(dateString, detail) {
+    const date = new Date(dateString);
+    let output = "";
+
+    switch (detail) {
+        case "y":
+            output = date.getFullYear().toString();
+            break;
+        case "m":
+            output = `${date.toLocaleString("default", { month: "long" })} ${date.getFullYear().toString()}`;
+            break;
+        case "d":
+            output = `${date.toLocaleString("default", { month: "long" })} ${date.getDate().toString()}, ${date.getFullYear().toString()}`;
+            break;
+        default:
+            throw new Error("Level of date detail must be 'y', 'm', or 'd'. Found " + detail);
+        }
+
+    return output;
+}
+
+const pages = dv.pages('"gamerecs"')
+const data = pages
 	.sort(b => b["release-date"])
-	.map(b => [b.file.link, b.developer, b.publisher, b.hours, b["release-date"], b["play-today"]]);
+	.map(b => [b.file.link, b.developer, b.publisher, b.hours, expressDate(b["release-date"], b["date-spec"]), b["play-today"]])
+const count = data.length
+const hrs = pages.map(b => b.hours).array().reduce((acc, obj) => acc + (obj || 0), 0)
+const headers = ["File", "Developer", "Publisher", "Hours", "Release Date", "Play Today"]
 
-dv.table(headers, data);
-
-let count = data.length;
-let hrs = pages.map(b => b.hours).array().reduce((acc, obj) => acc + (obj || 0), 0);
+// then render it as desired.
+dv.table(headers, data)
 dv.paragraph(`Totals: ${count} games, ${hrs.toFixed(1)} hours.`)
 ```
 
