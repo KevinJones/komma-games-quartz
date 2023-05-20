@@ -29,3 +29,5 @@ in environments: #godot, #unreal-engine-5, #graphics-programming
 Worldbuilding:
 #my-worldbuilding
 in fictional settings: #original-character, #fortune-nebula, #gunpowder-and-crystal, #menagerie-city, #cold-starlight, #wiz-jailbirds
+
+See also [Game Review Tags](Game%20Review%20Tags.md).

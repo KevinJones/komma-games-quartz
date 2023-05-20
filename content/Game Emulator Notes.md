@@ -24,6 +24,13 @@ A few notes about what to expect:
 	- The user interface of *Wave Race* for the Game Boy should look translucent due to intentional ghosting, rather than flickering.
 	- DOS games should not appear "widescreen". 
 
+## The Browser Option
+
+Thanks to the power of webassembly, there are some emulators that can run in web browsers, supported by non-commercial sites. Here are some reputable ones I've found.
+
+- [Atari Mania](http://www.atarimania.com/about.html) lets you learn about games for the 2600, 5200, Jaguar, and other Atari platforms. Many 2600 games can be played in your browser here with a link to the Javatari emulator.
+- The Internet Archive contains a section called [The Emulation Station](https://archive.org/details/emulation) which allows you to sample a variety of old games in your browser.
+
 ## The MiSTer Option
 
 TODO
