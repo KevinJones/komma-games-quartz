@@ -21,3 +21,5 @@ Release Date:: 1977-10-14
 Hours:: 0.1
 
 A two-player cart containing many variations on tank vs tank and jet vs jet scenarios. Games 6 through 9, "tank pong", are probably the best today, with you lining up shots billiards style to try to hit your opponent. The others are too simplistic and don't see you interacting with the other player in an interesting way.
+
+Play Today:: Atari 50

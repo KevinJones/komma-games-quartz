@@ -30,8 +30,6 @@ What this list considers "current hardware":
 
 It doesn't consider streaming services like PlayStation Now and generally can't keep up with game releases on mobile platforms like Android and iOS.
 
-
-
 ![GR - What is an RPG Video Game](GR%20-%20What%20is%20an%20RPG%20Video%20Game.md)
 
 See [[Game Emulator Notes]] for a few practical tips on running old games.
