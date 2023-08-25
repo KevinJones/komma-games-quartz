@@ -4,6 +4,7 @@ tags:
 - clean
 - primer
 - game-design
+- #sync
 ---
 
 > Video games are meant to be just one thing. Fun. Fun for everyone! -Satoru Iwata

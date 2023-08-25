@@ -5,7 +5,7 @@ tags:
 - rough
 ---
 
-These are the notes I've collected about tabletop role-playing games. I'm a big fan of reading these books, mostly in digital form, but don't get to play them nearly as much as I'd like. I mean I love role-playing video games and enjoy writing too, but I didn't realy get into the tabletop variety until my late 20s.
+These are the notes I've collected about tabletop role-playing games. I'm a big fan of reading these books, mostly in digital form, but don't get to play them nearly as much as I'd like. I mean I love role-playing video games and enjoy writing too, but I didn't really get into the tabletop variety until my late 20s.
 
 ## Start Here
 

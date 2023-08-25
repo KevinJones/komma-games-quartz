@@ -3,6 +3,7 @@ title: "Game Emulator Notes"
 draft: true
 tags:
 - #rough 
+- #sync
 ---
 
 Standard disclaimer: this page will not tell you where to find ROMs or disc images for free. I want to encourage exploration, not stinginess. If you can afford to, you should always support game developers by buying an official release from a digital store (and also support the [Internet Archive](https://archive.org/) while you're at it.)

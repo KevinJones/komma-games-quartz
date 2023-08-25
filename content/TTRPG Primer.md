@@ -4,6 +4,7 @@ tags:
 - ttrpg-gaming
 - primer
 - rough
+- #sync
 ---
 
 A role-playing game, or **RPG**, is a game in which players discuss a fictional setting and assume the roles of characters within that setting. The discussion may include acting, improvised storytelling, or a processes of structured decision-making. Most often, actions taken by characters within the game succeed or fail according to a formal system of rules and guidelines.

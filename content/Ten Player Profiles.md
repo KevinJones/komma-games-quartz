@@ -5,6 +5,7 @@ tags:
 - reference
 - learning
 - game-design
+- #sync
 ---
 
 10 player segments emerged when conducting a clustering analysis of the roughly 500,000 gamers who took the Gamer Motivation Profile survey. They are:

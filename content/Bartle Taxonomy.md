@@ -4,6 +4,7 @@ tags:
 - rough
 - game-design
 - learning
+- #sync
 ---
 
 1996 paper by Richard Bartle focused on MMO players

@@ -4,6 +4,7 @@ draft: true
 tags:
 - #rough 
 - #game-recommendations 
+- #sync
 ---
 
 This list of game recommendations started in about 2018. It's an attempt to make sense out of game history, to hold on to those things I consider valuable, to understand them on a deeper level than just "fun retro nostalgia that reminds you of being a kid in the 1990s." (Not particularly helpful if you weren't a typical kid in the 1990s, after all.) As I continued to develop the list, I found its format was useful for more contemporary games, too. If you want to understand my taste in games, see what's out there, or just find a new old favorite, this is the place to be.
