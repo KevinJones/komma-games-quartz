@@ -1,8 +1,7 @@
 ---
 title: "Tokuro Fujiwara"
-draft: true
 tags:
-- rough
+- atom
 - #game-design 
 - #sync
 ---
@@ -10,13 +9,12 @@ tags:
 Tokuro Fujiwara is a Japanese video game designer, active from about 1982 to 2009. He was involved in many formative Capcom titles as a director or producer.
 
 Essential works:
-- [[gamerecs/Pooyan|Pooyan]]
-- [[gamerecs/Roc'n Rope|Roc'n Rope]]
+- [[Pooyan]]
+- [[Roc'n Rope]]
 - *Ghosts 'n Goblins*
 - *Bionic Commando*
 - *Sweet Home*
-
-
+- *Mega Man 2* (Producer)
 ## Further Reading
 
 [Tokuro Fujiwara - Wikipedia](https://en.wikipedia.org/wiki/Tokuro_Fujiwara)

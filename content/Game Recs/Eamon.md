@@ -5,7 +5,6 @@ platforms:
 - apple ii
 date-spec: y
 tags:
-- rough
 - #gr-rpghm 
 - #gr-fantasy 
 - #gr-post-classical

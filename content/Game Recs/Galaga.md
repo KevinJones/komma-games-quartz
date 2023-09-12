@@ -5,7 +5,6 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-shmup 
 - #gr-space 

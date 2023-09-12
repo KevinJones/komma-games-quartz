@@ -5,7 +5,6 @@ platforms:
 - apple ii
 date-spec: m
 tags:
-- rough
 - #gr-rpg 
 - #gr-turn-based-rpg 
 - #gr-fantasy 

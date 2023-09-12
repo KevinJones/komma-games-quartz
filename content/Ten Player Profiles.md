@@ -1,14 +1,14 @@
 ---
-title: "Ten Player Segments"
+title: "Ten Player Profiles"
 tags:
-- rough
+- atom
 - reference
 - learning
 - game-design
 - #sync
 ---
 
-10 player segments emerged when conducting a clustering analysis of the roughly 500,000 gamers who took the Gamer Motivation Profile survey. They are:
+10 player segments emerged when conducting a clustering analysis of the roughly 500,000 gamers who took the [Gamer Motivation Profile](https://apps.quanticfoundry.com/surveys/start/gamerprofile/) survey conducted by Quantic Foundry. They are:
 - The Acrobat
 - The Gardener
 - The Slayer
@@ -21,15 +21,15 @@ tags:
 
 (Tag yourself.)
 
-**The Acrobat** is a solo gamer who primarily wants to take on challenging gameplay, practicing over and over again until they can take on the most difficult missions and bosses. They enjoy games like *[[gamerecs/Spelunky|Spelunky]]*, *[[gamerecs/Celeste|Celeste]]*, *[[gamerecs/Super Metroid|Super Metroid]]*, and *[[gamerecs/Tetris|Tetris]]*.
+**The Acrobat** is a solo gamer who primarily wants to take on challenging gameplay, practicing over and over again until they can take on the most difficult missions and bosses. They enjoy games like [[Spelunky]], [[Celeste]], [[Super Metroid]], and [[Tetris]].
 
 **The Gardener** is a gamer looking for quiet, relaxing task completion. They want games where the rules are presented upfront, as directly as possible, and the gameplay itself is spontaneous rather than planned out in advance. The vibes are chill and the beats are lo-fi. They enjoy games like *Candy Crush Saga*, Solitaire, and *Animal Crossing*.
 
 **The Slayer** is a gamer who wants curated cinematic destruction. They feel a rush from chaos and mayhem in the context of a rich game world with an overarching story. They typically enjoy on-rails action-adventure games like *Uncharted* and *Tomb Raider*.
 
-**The Sightseer** is a lot like the Slayer, but with a preference for less violence. Artisinal story experiences like *Firewatch*, *INSIDE*, or Telltale's *The Walking Dead* are favorites of the Sightseer. (This is my own distinction, not mentioned in the QF article.)
+**The Sightseer** is a lot like the Slayer, but with a preference for less violence. Artisanal story experiences like *Firewatch*, *INSIDE*, or Telltale's *The Walking Dead* are favorites of the Sightseer. (This is my own distinction, not mentioned in the QF article.)
 
-**The Skirmisher** wants fast-paced, social action games they can easily pick up and play. They probably enjoy online shooters such as *Call of Duty* or *Counter-Strike*, but don't take the competitive aspects too seriously. They are fine with match-based games where everything resets each match.**
+**The Skirmisher** wants fast-paced, social action games they can easily pick up and play. They probably enjoy online shooters such as *Call of Duty* or *Counter-Strike*, but don't take the competitive aspects too seriously. They are fine with match-based games where everything resets each match.
 
 **The Gladiator** is a self-described "hardcore" gamer who wants an experience that's truly epic. Their ideal game has a broad spectrum of features including: power progression, team arenas, fast-paced play, challenges that require strategic thinking, and a rich world with tons of lore. They often enjoy games like *Destiny*, *Gears of War*, *Monster Hunter*, or *Black Desert Online*.
 
@@ -45,11 +45,9 @@ tags:
 
 ## Limitations
 
-> There isn't a one-size-fits-all player segment model that works for every situation.
+**There isn't a one-size-fits-all player segment model that works for every situation.**
 
-First, these are more like paint colors you can mix together than separate buckets. 
-
-This segment model provides a broad taxonomy for gamers as a whole, but they read like caricatures of genres--you lose nuance and granularity when you try to segment all gamers. If you're making an Open World Action-Adventure game then the largest block of players in your audience will be Bounty Hunters--but so what? You probably already knew that. You will need more data if you're working within a specific genre or a specific game title. They suggest working with just a sample of players who care about your genre or franchise.
+The player profiles we describe here are more like paint colors you can mix together than separate buckets. This segment model provides a broad taxonomy for gamers as a whole, but they read like caricatures of genres—you lose nuance and granularity when you try to segment all gamers. If you're making an Open World Action-Adventure game then the largest block of players in your audience will be Bounty Hunters—but so what? You probably already knew that. You will need more data if you're working within a specific genre or a specific game title. They suggest working with just a sample of players who care about your genre or franchise.
 
 ## Further Reading
 

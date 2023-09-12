@@ -1,9 +1,10 @@
 ---
 title: "Timmy, Johnny, and Spike"
 tags:
-- rough
+- atom
 - game-design
 - learning
+- magic-the-gathering
 - #sync
 ---
 
@@ -26,7 +27,6 @@ Over the years, this trio has been extended with a separate "aesthetic profile" 
 It's good to be familiar with these terms Timmy/Tammy, Johnny/Jenny, and Spike because they often come up in discussions about multiplayer, competitive games. However, it's important to remember that they are also the product of one company's market research, rather than any peer-reviewed academic consensus, and the scope of their application may be as limited as "why this person buys *Magic: The Gathering* products".
 
 ## Further Reading
-
 
 https://mtg.fandom.com/wiki/Player_type
 

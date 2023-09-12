@@ -1,7 +1,7 @@
 ---
 title: "Bartle Taxonomy"
 tags:
-- rough
+- needs-work
 - game-design
 - learning
 - #sync

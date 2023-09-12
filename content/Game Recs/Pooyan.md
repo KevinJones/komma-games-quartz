@@ -5,7 +5,6 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-2d-shooter 
 - #gr-acrobat 

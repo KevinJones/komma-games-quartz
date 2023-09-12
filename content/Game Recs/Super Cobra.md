@@ -5,7 +5,6 @@ platforms:
 - here
 date-spec: m
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-2d-shooter 
 - #gr-acrobat 

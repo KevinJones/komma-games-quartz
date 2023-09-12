@@ -6,7 +6,6 @@ platforms:
 - gb
 date-spec: d
 tags:
-- rough
 - #gr-rus-dev 
 - #gr-greatest-hits 
 - #gr-supports-multiplayer 

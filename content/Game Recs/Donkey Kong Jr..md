@@ -5,7 +5,6 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-acrobat 
 - #gr-platformer 
@@ -20,4 +19,4 @@ Publisher:: Nintendo
 Release Date:: 1982-08-31
 Hours:: 0.1
 
-The sequel to [Donkey Kong](gamerecs/Donkey%20Kong.md). This focuses on the athletic abilities of Donkey Kong Jr., who climbs between vines and ropes to reach his father at the top of the screen. The premise is familiar despite the role reversal, but what makes it interesting is Jr's wide stature and rope climbing. He moves faster while holding one rope in each hand, but it makes him a larger target for enemies.
+The sequel to [[Donkey Kong]]. This focuses on the athletic abilities of Donkey Kong Jr., who climbs between vines and ropes to reach his father at the top of the screen. The premise is familiar despite the role reversal, but what makes it interesting is Jr's wide stature and rope climbing. He moves faster while holding one rope in each hand, but it makes him a larger target for enemies.

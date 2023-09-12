@@ -5,7 +5,6 @@ platforms:
 - zx spectrum
 date-spec: y
 tags:
-- rough
 - #gr-uk-dev 
 - #gr-2d-shooter 
 - #gr-platformer 

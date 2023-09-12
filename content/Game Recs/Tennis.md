@@ -5,7 +5,6 @@ platforms:
 - here
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-contemporary 
 - #sync

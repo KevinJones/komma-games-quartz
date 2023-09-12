@@ -5,7 +5,6 @@ platforms:
 - here
 date-spec: m
 tags:
-- rough
 - #gr-acrobat 
 - #gr-maze-game 
 - #gr-jp-dev 
@@ -19,4 +18,4 @@ Publisher:: Taito, Universal
 Release Date:: 1982-10-01
 Hours:: 0.1
 
-*Mr. Do* is one of those games that's easier to show than describe. Like [Dig Dug](gamerecs/Dig%20Dug.md), you dig through soil while avoiding enemies, collecting cherries and strategically dislodging heavy apples to flatten your pursuers.
+*Mr. Do* is one of those games that's easier to show than describe. Like [[Dig Dug]], you dig through soil while avoiding enemies, collecting cherries and strategically dislodging heavy apples to flatten your pursuers.

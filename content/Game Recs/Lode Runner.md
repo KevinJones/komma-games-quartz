@@ -7,7 +7,6 @@ platforms:
 - lynx
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-puzzle 
 - #gr-platformer 

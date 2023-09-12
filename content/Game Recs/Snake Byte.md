@@ -5,7 +5,6 @@ platforms:
 - apple ii
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-puzzle 
 - #gr-gardener 

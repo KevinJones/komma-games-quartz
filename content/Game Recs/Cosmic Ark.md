@@ -5,7 +5,6 @@ platforms:
 - here
 date-spec: d
 tags:
-- rough
 - #gr-na-dev 
 - #gr-2d-shooter 
 - #gr-sci-fi 

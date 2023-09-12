@@ -5,7 +5,6 @@ platforms:
 - atari 8-bit
 date-spec: y
 tags:
-- rough
 - #gr-skirmisher 
 - #gr-best-in-multiplayer 
 - #gr-maze-game 

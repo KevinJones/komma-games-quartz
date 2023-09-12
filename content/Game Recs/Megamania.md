@@ -5,7 +5,6 @@ platforms:
 - atari 2600
 date-spec: d
 tags:
-- rough
 - #gr-na-dev 
 - #gr-2d-shooter 
 - #gr-space 

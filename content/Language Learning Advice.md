@@ -1,0 +1,22 @@
+#languages #sync 
+
+- **Motivation**. If you're excited to get started right now, that's great! Write down the reason you want to learn the language so you can come back to it if you ever feel a slump. Some examples: 
+	- I want to better know a person who speaks this language natively.
+	- I want to have conversations in this language on social media.
+	- I want to be able to understand news, videos, or books written in this language.
+	- I want to travel to a country where this is language is spoken.
+	- I want to learn new ways of expressing myself.
+	- I want to master the challenge of a new skill.
+- **Immerse with input.** Listen to the language as much as you can, especially if you can listen to native speakers. Podcasts, YouTube, news streams, foreign TV shows (without English subtitles), that sort of thing. Don't worry if you can't understand much at first. This is basically how you acquired your first language, and is a good complement to more systematic practice.
+- **Talk.** To yourself or to your language-learning partners. Remember, language pre-dates writing. Learning to read and write the language will become easier as you learn to hear and repeat the sounds of the language.
+- **Create.** Use the language in free, creative ways to practice it. Write little conversations, translate the dumbest jokes you can think of, draw a comic, play word association, that sort of thing. You can also use the language to describe things happening to you in real life, like listing the ingredients in a meal.
+- **Learn like a kid.** Play with the language. Be willing to make mistakes. Be ready to drop your previous assumptions about what a language can do. Be okay with things that are ambiguous. Admit that you don't know everything and be willing to ask questions.
+- **Watch and listen.** As you listen to the language, try to imitate it. It *will* sound strange until you have heard it a lot. You can also watch someone's mouth and throat as they're speaking to get a better idea of what happens physically to make these sounds.
+- **Try to find material that is just slightly above your level.** At the start this will be the short simple dialogs you see in language learning textbooks.
+- **Grammar needs examples.** But remember that your goal is to understand the rule, not just memorize the example sentences. Your method for learning grammar will depend on your style and how familiar you are with English grammar. If you're like me, you prefer to learn important rules up front, rather than trying to infer them from examples. Other people might prefer seeing the rule after they know the context where it's used. You don't need to master grammar to get started, but it's worthwhile if you want to become fluent.
+- **It's okay to have a bit of an accent.** Your accent tells a story of who you are, where you came from, and where you've been along the way. It doesn't matter if someone can hear your foreign accent if they can understand what you're trying to say. You should practice your pronunciation, of course, but don't worry if it's not literally perfect.
+- **Don't rely on "language hacks."** Anything that promises to teach you a language in a week is too good to be true. You can't learn anything while sleeping.
+- **Practice every day.**
+	- Start with a small goal, like ten minutes a day, until it becomes habit. You can study for longer if you feel like it.
+	- A language learning app (like Duolingo) won't give you everything you need, but it is good at giving you tiny lessons and reminding you when you need to study.
+	- You should absolutely use spaced repetition flash cards. I recommend [Anki](https://apps.ankiweb.net/). You can create cards yourself or import them from other peoples' decks.

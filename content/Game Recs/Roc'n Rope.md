@@ -5,7 +5,6 @@ platforms:
 - here
 date-spec: y
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-platformer 
 - #gr-acrobat 

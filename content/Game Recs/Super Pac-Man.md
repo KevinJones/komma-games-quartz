@@ -5,7 +5,6 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- rough
 - #gr-acrobat 
 - #gr-gardener 
 - #gr-jp-dev 
@@ -20,4 +19,4 @@ Publisher:: Namco, Bally Midway
 Release Date:: 1982-08-11
 Hours:: 0.1
 
-A moderately interesting follow-up to *[Pac-Man](gamerecs/Pac-Man.md)*, featuring mazes of locked doors and fruit.
+A moderately interesting follow-up to [[Pac-Man]], featuring mazes of locked doors and fruit.

@@ -5,7 +5,6 @@ platforms:
 - intellivision
 date-spec: m
 tags:
-- rough
 - #gr-na-dev 
 - #gr-acrobat 
 - #sync

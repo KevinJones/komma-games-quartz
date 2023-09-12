@@ -5,7 +5,6 @@ platforms:
 - win
 date-spec: d
 tags:
-- rough
 - gr-platformer
 - gr-modern-roguelike 
 - gr-fantasy 

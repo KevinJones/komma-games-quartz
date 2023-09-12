@@ -5,7 +5,6 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- rough
 - #gr-2d-shooter 
 - #gr-puzzle 
 - #gr-best-in-multiplayer 

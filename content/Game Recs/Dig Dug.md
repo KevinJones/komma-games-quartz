@@ -5,7 +5,6 @@ platforms:
 - here
 date-spec: d
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-maze-game 
 - #gr-puzzle 

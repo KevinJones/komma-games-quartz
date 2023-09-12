@@ -5,7 +5,6 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- rough
 - #gr-na-dev 
 - #gr-puzzle 
 - #gr-greatest-hits 

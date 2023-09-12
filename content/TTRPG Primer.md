@@ -1,13 +1,13 @@
 ---
-title: "RPG Primer"
+title: "TTRPG Primer"
 tags:
 - ttrpg-gaming
 - primer
-- rough
+- #atom 
 - #sync
 ---
 
-A role-playing game, or **RPG**, is a game in which players discuss a fictional setting and assume the roles of characters within that setting. The discussion may include acting, improvised storytelling, or a processes of structured decision-making. Most often, actions taken by characters within the game succeed or fail according to a formal system of rules and guidelines.
+**A tabletop RPG is a game in which players discuss a fictional setting and assume the roles of characters within that setting.** The discussion may include acting, improvised storytelling, or a processes of structured decision-making. Most often, actions taken by characters within the game succeed or fail according to a formal system of rules and guidelines.
 
 Play of an RPG typically works like this:
 - A group of people gather for the purpose of playing a particular tabletop RPG.
@@ -25,6 +25,7 @@ For a video game metaphor, think Zork, or other interactive fiction. You have a 
 
 If you would like to know more about the origin of RPGs, it's covered in the [[History of Games]].
 
+My notes use the term "TTRPG" to distinguish this kind of game from role-playing video games. This doesn't mean a TTRPG must take place around a table, though--they can be played in a voice call, on a virtual canvas, in a text based forum, or a number of other mediums. **The key element is discussion**, not the physical parts.
 ## Why would you play one of these when video games exist?
 
 Well, they're something different, and that can be enough. But I think it's important to realize that a tabletop RPG creates quite a different experience than a video game, even if the game is a *Baldur's Gate* or *Solasta: Crown of the Magister* that aims to implement the rules text of a particular tabletop game as closely as it can.

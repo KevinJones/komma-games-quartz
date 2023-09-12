@@ -5,7 +5,6 @@ platforms:
 - snes
 date-spec: d
 tags:
-- rough
 - #gr-greatest-hits 
 - #gr-platformer 
 - #gr-action-adventure

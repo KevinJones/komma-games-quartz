@@ -1,39 +1,61 @@
 ---
-title: "TTRPG Gaming"
-tags:
-- ttrpg-gaming
-- rough
+tags: #map, #ttrpg-gaming, #sync
 ---
 
-These are the notes I've collected about tabletop role-playing games. I'm a big fan of reading these books, mostly in digital form, but don't get to play them nearly as much as I'd like. I mean I love role-playing video games and enjoy writing too, but I didn't really get into the tabletop variety until my late 20s.
+6/8/2023: I'm feeling unsure about where I'm at in the TTRPG hobby in general, because I don't have the courage to join games by others or organize my own game. I seem to still enjoy reading about RPGs and playing their video game counterparts, so I don't know. I know the notes I've made will be helpful to somebody so I'll keep them around.
+## Basics
+[[TTRPG Primer]]
+[[What is an Adventure Module]]
+[[Kinds of TTRPGs]]
 
-## Start Here
+## Game Lists
+[[TTRPG Systems Guide]]
+[[TTRPGs for Kids]]
+[[Animal TTRPGs]]
+[[TTRPGs with a Wargame Feel]]
+[[Indie TTRPGs for Newcomers]]
+[[TTRPG Crunch Examples]]
+[[Generic and Universal TTRPGs]]
+[[OSR TTRPGs]]
+[[TTRPGs You Can Play For Free]]
 
-[[TTRPG Primer|What's an RPG?]]  
-[[Adventure Module|What's an adventure module?]]  
+## General Interest
+[[TTRPG GM Styles]]
+[[TTRPG Hex Mapping]]
+[[Measuring Crunch in TTRPGs]]
+[[Make Your Own TTRPG]]
+[[TTRPG - Inspiration for Non-Western Fantasy]]
+My [[DNDisms]]
+[[Creature Size Categories in TTRPGs]]
+[[GNS Theory Has Problems]]
+[[Improv Tips]]
+[[TTRPG and Video Game Connections]]
+[[Free TTRPG Play Aids]]
+[[TTRPG Campaign Settings]]
 
-What kinds of RPGs are out there?
+## Other note maps
+[[D&D 5e]]
+[[Pathfinder 2e]]
+[[World of Darkness]]
 
-[[RPG System Guide]], featuring D&D and its alternatives.  
-[[RPGs for Kids]]  
-[[RPGs with a Wargame Feel]]  
-[[Light RPGs]]  
-[[Crunchy RPGs]] (but [[RPG: Light or Heavy|how do you determine if an RPG is light or heavy?]])  
-[[Indie RPGs Recommended For Newcomers]]  
+## Me Running Games
+[[TTRPGs I Want To Play]]
+[[TTRPG Wishlist]]
+[[Me Running Beast World]]
+[[Cyberpunk 2020 vs Cyberpunk RED]]
+[[Tactical Combat House Rules for Macchiato Monsters]]
 
-## How to Have More Fun with RPGs
+## Impressions
+[[GROK - Impressions]]
+[[GURPS - What is it Good and Bad For]]
+[[LUMEN System - Impressions]]
+[[Mini Six Bare Bones - Impressions]]
+[[Tiny Cthulhu - Impressions]]
+[[DM Yourself - Tom Scutt - Impressions]]
+[[HC SVNT DRACONES RPG]]
+[[The Teach - Fiasco In A Box]]
+[[Dungeon Crawl Classics Player Guide]]
+[[FATE Requires Active Trust]]
 
-[[Safety Tools]]  
-[[Free RPG Play Aids]]  
-[[TTRPGs You Can Play For Free]]  
-[[Organize Your RPG PDFs with Calibre]]  
-
-## Notes for Particular Games
-
-[[OSR Games]]  
-[[Pathfinder 2e]]  
-[[D&D 5e]]  
-[[GURPS]]  
-
-
-#ttrpg-gaming #rough
+## Info in other vaults:
+- Cyberpunk 2020 rules and game data are in a vault called CyberpunkTTRPG, not for sharing.

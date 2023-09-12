@@ -5,7 +5,6 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-puzzle 
 - #gr-maze-game 

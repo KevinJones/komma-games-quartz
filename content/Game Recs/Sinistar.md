@@ -5,7 +5,6 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- rough
 - #gr-acrobat 
 - #gr-space 
 - #gr-sci-fi 

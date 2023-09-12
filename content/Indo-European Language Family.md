@@ -1,0 +1,19 @@
+#languages #sync 
+
+- languages native to the majority of Europe, the Iranian plateau, and the northern Indian subcontinent
+- all descended from a single prehistoric language, Proto-Indo-European, most likely spoken in the Pontic-Caspian steppe (present-day Ukraine and southern Russia)
+- written evidence appeared during the Bronze Age. Mycenaean Greek, Hittite, Luwian.
+- second-longest recorded history of any known language family, after Afroasiatic family
+- ten major branches:
+    - Anatolian (extinct) - attested from 20C BCE
+    - Hellenic (mostly extinct, except for modern Greek and Tsakonian) - fragments from 1450 to 1350 BCE have been found; Homeric texts from 8C BCE.
+    - Indo-Iranian (incl Hindi-Urdu, Bengali, and Punjabi) - attested 14C BCE
+    - Italic (incl Latin...), including the branch of **Romance** languages (incl Romanian, Spanish, French, Italian, Portuguese) - attested from 7C BCE
+    - Celtic (incl Irish, Welsh) - attested from 6C BCE
+    - Germanic (incl Swedish, German, Dutch, Afrikaans, aaaaaand English) - attested from 2C
+    - Armenian - attested from 5C.
+    - Tocharian (extinct) - attested from roughly 6C, probably extinct by 10C.
+    - Balto-Slavic (incl Russian, Ukrainian, Polish)
+        - Slavic attested from 9C
+        - Baltic attested from 14C
+    - Albanian - attested from 13C
