@@ -10,7 +10,7 @@ tags:
 - #gr-futuristic 
 - #gr-sci-fi 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: An intense dystopian shooter.)

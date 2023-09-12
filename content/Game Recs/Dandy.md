@@ -9,7 +9,7 @@ tags:
 - #gr-best-in-multiplayer 
 - #gr-maze-game 
 - #gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Fire arrows through monster-filled mazes.)

@@ -8,7 +8,7 @@ tags:
 - #gr-racing 
 - #gr-na-dev 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A dolphin uses sonar to flee a giant squid.)

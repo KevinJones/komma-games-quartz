@@ -11,7 +11,7 @@ tags:
 - #gr-skirmisher 
 - #gr-na-dev 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: 2 player only maze combat.)

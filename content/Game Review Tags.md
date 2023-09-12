@@ -3,7 +3,7 @@ title: "Game Review Tags"
 draft: true
 tags:
 - #gr-meta
-- #sync
+- #quartz-sync
 ---
 
 All tags used on game pages have the "gr-" prefix, to distinguish them from other parts of the garden.

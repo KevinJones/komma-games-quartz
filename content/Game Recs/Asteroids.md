@@ -9,7 +9,7 @@ tags:
 - #gr-acrobat 
 - #gr-2d-shooter 
 - #gr-space 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Shoot space rocks.)

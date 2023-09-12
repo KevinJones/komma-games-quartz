@@ -3,7 +3,7 @@ title: "Tokuro Fujiwara"
 tags:
 - atom
 - #game-design 
-- #sync
+- #quartz-sync
 ---
 
 Tokuro Fujiwara is a Japanese video game designer, active from about 1982 to 2009. He was involved in many formative Capcom titles as a director or producer.

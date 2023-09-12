@@ -10,7 +10,7 @@ tags:
 - #gr-2d-shooter 
 - #gr-fantasy 
 - #gr-futuristic 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Fire shots diagonally to take down enemies.)

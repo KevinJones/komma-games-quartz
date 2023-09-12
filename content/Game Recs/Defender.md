@@ -9,7 +9,7 @@ tags:
 - #gr-2d-shooter 
 - #gr-space 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Defend a landscape from space aliens.)

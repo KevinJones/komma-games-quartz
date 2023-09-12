@@ -8,7 +8,7 @@ tags:
 - #gr-na-dev 
 - #gr-maze-game 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A trackball-controlled maze game.)

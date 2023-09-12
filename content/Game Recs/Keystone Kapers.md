@@ -9,7 +9,7 @@ tags:
 - #gr-platformer 
 - #gr-acrobat 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Catch the thief before he escapes the department store.)

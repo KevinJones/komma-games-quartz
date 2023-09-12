@@ -1,4 +1,4 @@
-#fleeting #languages #apps #sync 
+#fleeting #languages #apps #quartz-sync 
 
 Updated Sep 2023. Prices may vary.
 

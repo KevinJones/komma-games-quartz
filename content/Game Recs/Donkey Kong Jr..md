@@ -9,7 +9,7 @@ tags:
 - #gr-acrobat 
 - #gr-platformer 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Jump between ropes and vines to rescue DK from the evil Mario.)

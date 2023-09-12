@@ -8,7 +8,7 @@ tags:
 - gr-contemporary 
 - gr-acrobat 
 - gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Face your doubts and climb a mountain in this precise platformer.)

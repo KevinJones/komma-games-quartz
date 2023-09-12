@@ -10,7 +10,7 @@ tags:
 - #gr-post-classical 
 - #gr-fantasy 
 - #gr-bounty-hunter 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A square hero searches for a magical chalice.)

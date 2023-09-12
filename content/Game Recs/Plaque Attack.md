@@ -9,7 +9,7 @@ tags:
 - #gr-sightseer 
 - #gr-2d-shooter 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Defend your teeth from tooth decay.)

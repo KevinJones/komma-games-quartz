@@ -9,7 +9,7 @@ tags:
 - #gr-space 
 - #gr-acrobat 
 - #gr-jp-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A spaceship avoids obstacles while crossing the screen.)

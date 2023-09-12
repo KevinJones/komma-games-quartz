@@ -10,7 +10,7 @@ tags:
 - #gr-contemporary 
 - #gr-acrobat 
 - #gr-war
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Defend cities from ballistic missiles.)

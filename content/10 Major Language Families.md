@@ -1,4 +1,4 @@
-#languages #sync 
+#languages #quartz-sync 
 
 A language family is a classification of languages that all descend from a common ancestor, called the proto-language of the family. The ten language families with the most speakers, and examples of modern languages in the family:
 

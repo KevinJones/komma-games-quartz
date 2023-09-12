@@ -11,7 +11,7 @@ tags:
 - #gr-acrobat 
 - #gr-space 
 - #gr-sci-fi 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A space traveler must rebuild his rocket and defend himself against hostile aliens.)

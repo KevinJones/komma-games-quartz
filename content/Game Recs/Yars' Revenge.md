@@ -10,7 +10,7 @@ tags:
 - #gr-2d-shooter 
 - #gr-space 
 - #gr-sci-fi 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Describe this game.)

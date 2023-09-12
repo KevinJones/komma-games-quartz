@@ -10,7 +10,7 @@ tags:
 - #gr-sci-fi 
 - #gr-na-dev 
 - #gr-2d-shooter 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Battle an intelligent, talking spacecraft.)

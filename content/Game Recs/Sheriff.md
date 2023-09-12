@@ -10,7 +10,7 @@ tags:
 - #gr-modern-history 
 - #gr-crime-and-mystery 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A sheriff spins around and shoots outlaws.)

@@ -7,7 +7,7 @@ date-spec: m
 tags:
 - #gr-na-dev 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Big fish eat smaller fish, get bigger.)

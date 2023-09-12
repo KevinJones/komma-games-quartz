@@ -8,7 +8,7 @@ tags:
 - #gr-na-dev 
 - #gr-2d-shooter 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A frantic insect shooter.)

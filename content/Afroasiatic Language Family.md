@@ -1,4 +1,4 @@
-#languages #sync 
+#languages #quartz-sync 
 - languages spoken predominantly in North Africa, the Horn of Africa, Western Asia, and some parts of the Sahara
 - has the longest recorded history of any known language family
 - Most commonly spoken today is Arabic (by far)

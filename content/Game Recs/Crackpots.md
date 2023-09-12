@@ -9,7 +9,7 @@ tags:
 - #gr-acrobat 
 - #gr-2d-shooter 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Drop flower pots on bugs.)

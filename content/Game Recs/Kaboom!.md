@@ -7,7 +7,7 @@ date-spec: y
 tags:
 - #gr-na-dev 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Catch bombs in pans of water.)

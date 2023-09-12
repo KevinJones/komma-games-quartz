@@ -10,7 +10,7 @@ tags:
 - #gr-other-action
 - #gr-post-classical 
 - #gr-fantasy 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Four-way *Pong*.)

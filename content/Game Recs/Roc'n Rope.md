@@ -8,7 +8,7 @@ tags:
 - #gr-jp-dev 
 - #gr-platformer 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Use your ziplines to climb a prehistoric mountain.)

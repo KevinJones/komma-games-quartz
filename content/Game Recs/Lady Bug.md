@@ -8,7 +8,7 @@ date-spec: y
 tags:
 - #gr-na-dev 
 - #gr-puzzle 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Spin walls to keep monsters away from your flowers.)

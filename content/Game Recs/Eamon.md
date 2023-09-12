@@ -10,7 +10,7 @@ tags:
 - #gr-post-classical
 - #gr-na-dev 
 - #gr-bounty-hunter 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A charming text RPG.)

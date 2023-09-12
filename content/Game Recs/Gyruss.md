@@ -12,7 +12,7 @@ tags:
 - #gr-jp-dev 
 - #gr-space 
 - #gr-sci-fi 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Shoot ships in space while touring the solar system.)

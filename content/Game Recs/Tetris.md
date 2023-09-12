@@ -12,7 +12,7 @@ tags:
 - #gr-puzzle 
 - #gr-acrobat 
 - #gr-gardener 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Line up falling blocks into complete rows to keep the well from overflowing.)

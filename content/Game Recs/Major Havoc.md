@@ -11,7 +11,7 @@ tags:
 - #gr-acrobat 
 - #gr-space 
 - #gr-sci-fi 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Infiltrate and blow up space stations.)

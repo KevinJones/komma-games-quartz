@@ -7,7 +7,7 @@ date-spec: y
 tags:
 - #gr-na-dev 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Minimalist tennis.)

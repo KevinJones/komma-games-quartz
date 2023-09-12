@@ -9,7 +9,7 @@ tags:
 - #gr-space 
 - #gr-sci-fi 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: 8-way space shooting.)

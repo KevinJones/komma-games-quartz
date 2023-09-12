@@ -8,7 +8,7 @@ tags:
 - #gr-puzzle 
 - #gr-jp-dev 
 - #gr-architect 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: The eternal block-pushing puzzle.)

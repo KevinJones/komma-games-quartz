@@ -1,4 +1,4 @@
-#languages #sync 
+#languages #quartz-sync 
 
 - languages native to the majority of Europe, the Iranian plateau, and the northern Indian subcontinent
 - all descended from a single prehistoric language, Proto-Indo-European, most likely spoken in the Pontic-Caspian steppe (present-day Ukraine and southern Russia)

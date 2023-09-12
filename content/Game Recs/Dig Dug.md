@@ -10,7 +10,7 @@ tags:
 - #gr-puzzle 
 - #gr-gardener 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Dig through soil and burst/crush your enemies.)

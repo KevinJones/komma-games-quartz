@@ -10,7 +10,7 @@ tags:
 - #gr-gardener 
 - #gr-acrobat 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A snake pursues food.)

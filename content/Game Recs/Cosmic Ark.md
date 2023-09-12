@@ -10,7 +10,7 @@ tags:
 - #gr-sci-fi 
 - #gr-space 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Collect as many animal specimens as possible before your fuel runs out.)

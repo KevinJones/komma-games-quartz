@@ -8,7 +8,7 @@ tags:
 - #gr-best-in-multiplayer 
 - #gr-skirmisher 
 - #gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Four-player variety pong.)

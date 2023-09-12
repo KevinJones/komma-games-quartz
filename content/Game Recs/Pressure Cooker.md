@@ -8,7 +8,7 @@ tags:
 - #gr-hidden-gems 
 - #gr-na-dev 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Flip burgers and drop them down appropriate chutes..)

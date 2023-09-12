@@ -1,4 +1,4 @@
-#programming #sync 
+#programming #quartz-sync 
 
 The term 10x Developer is a myth. It is a belief that there are some people who are *so good*, they can solve software problems in 1/10th the time and do it ten times better.
 

@@ -9,7 +9,7 @@ tags:
 - #gr-platformer 
 - #gr-contemporary 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: How long can you hold the animals in?)

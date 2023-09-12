@@ -1,4 +1,4 @@
-#sync 
+#quartz-sync 
 
 In obsidian: use the `<sup>` HTML tag.
 

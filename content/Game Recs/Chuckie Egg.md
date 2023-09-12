@@ -10,7 +10,7 @@ tags:
 - #gr-platformer 
 - #gr-acrobat 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Collect eggs, avoid ducks.)

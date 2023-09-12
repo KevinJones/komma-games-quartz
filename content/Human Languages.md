@@ -1,24 +1,27 @@
-#map #languages #sync 
-
-
+---
+tags:
+  - map
+  - languages
+  - quartz-sync
+---
 General:
-[[Language Learning Advice]]
-[[Language Learning Resources]]
-[[Language Learning - List of Situations]]
-[[Language App Price Chart]]
+- [[Language Learning Advice]]
+- [[Language Learning Resources]]
+- [[Language Learning - List of Situations]]
+- [[Language App Price Chart]]
 
 Romance: 
-[[French]]
-[[Spanish]]
-[[Esperanto]]
-[[Chinese]]
+- [[French]]
+- [[Spanish]]
+- [[Esperanto]]
 
 Others:
-[[Japanese]]
-[[Korean]]
-[[English Language]]
+- [[Mandarin Chinese]]
+- [[Japanese]]
+- [[Korean]]
+- [[English Language]]
 
 Linguistics:
-[[10 Major Language Families]]
-[[Languages Online vs Languages Globally]]
-[[CEFR]]
+- [[10 Major Language Families]]
+- [[Languages Online vs Languages Globally]]
+- [[CEFR]]

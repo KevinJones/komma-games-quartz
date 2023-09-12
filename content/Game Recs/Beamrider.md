@@ -10,7 +10,7 @@ tags:
 - #gr-sci-fi 
 - #gr-acrobat 
 - #gr-hidden-gems 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Aesthetic perspective shooter.)

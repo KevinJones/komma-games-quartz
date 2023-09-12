@@ -1,4 +1,4 @@
-#sync #meta 
+#quartz-sync #meta 
 
 Purpose
 #primer - A beginner-level introduction to a subject. Typically read once.

@@ -1,4 +1,4 @@
-#sync #meta
+#quartz-sync #meta
 ## 1. Writing makes you smarter.
 - Use full sentences in your own words on anything more than a #fleeting note.
 

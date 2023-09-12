@@ -1,4 +1,4 @@
-#sync
+#quartz-sync
 
 What does this list consider an RPG?
 - Either it meets all these criteria:

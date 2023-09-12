@@ -10,7 +10,7 @@ tags:
 - #gr-space 
 - #gr-sci-fi 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Shoot down alien formations.)

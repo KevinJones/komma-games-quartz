@@ -9,7 +9,7 @@ tags:
 - #gr-racing 
 - #gr-contemporary 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Slalom downhill as fast as possible.)

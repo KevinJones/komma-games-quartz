@@ -10,7 +10,7 @@ tags:
 - #gr-2d-shooter 
 - #gr-sci-fi 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A free-roaming plane shooter.)

@@ -10,7 +10,7 @@ tags:
 - #gr-fantasy 
 - #gr-post-classical 
 - #gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Describe this game.)

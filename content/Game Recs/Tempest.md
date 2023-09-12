@@ -8,7 +8,7 @@ tags:
 - #gr-shmup 
 - #gr-acrobat 
 - #gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A stylish vector shmup.)

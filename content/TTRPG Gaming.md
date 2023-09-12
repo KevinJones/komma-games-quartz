@@ -1,5 +1,5 @@
 ---
-tags: #map, #ttrpg-gaming, #sync
+tags: #map, #ttrpg-gaming, #quartz-sync
 ---
 
 6/8/2023: I'm feeling unsure about where I'm at in the TTRPG hobby in general, because I don't have the courage to join games by others or organize my own game. I seem to still enjoy reading about RPGs and playing their video game counterparts, so I don't know. I know the notes I've made will be helpful to somebody so I'll keep them around.

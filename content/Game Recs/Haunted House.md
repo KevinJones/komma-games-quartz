@@ -9,7 +9,7 @@ tags:
 - #gr-horror 
 - #gr-contemporary 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Reassumble the burial urn and leave the dark mansion alive.)

@@ -9,7 +9,7 @@ tags:
 - #gr-acrobat 
 - #gr-platformer 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Climb ladders and jump around to rescue a damsel from a giant ape.)

@@ -8,7 +8,7 @@ tags:
 - #gr-jp-dev 
 - #gr-2d-shooter 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Shoot down ballooning wolves.)

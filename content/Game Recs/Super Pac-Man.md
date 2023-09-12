@@ -9,7 +9,7 @@ tags:
 - #gr-gardener 
 - #gr-jp-dev 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Pac-Man unlocks new doors.)

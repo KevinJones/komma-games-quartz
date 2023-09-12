@@ -12,7 +12,7 @@ tags:
 - #gr-fantasy 
 - #gr-acrobat 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Dig holes to trap aliens.)

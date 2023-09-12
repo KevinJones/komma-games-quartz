@@ -1,5 +1,5 @@
 ---
-tags: #history, #atom, #sync 
+tags: #history, #atom, #quartz-sync 
 ---
 
 **Leif Erikson** and possibly other Vikings.

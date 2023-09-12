@@ -1,5 +1,5 @@
 ---
-tags: #ttrpg-gaming, #atom, #sync
+tags: #ttrpg-gaming, #atom, #quartz-sync
 ---
 
 How do you categorize tabletop role playing games? There's no strictly scientific way of doing it, but you could try asking the following questions...

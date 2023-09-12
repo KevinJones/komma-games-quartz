@@ -1,5 +1,5 @@
 ---
-tags: #atom, #philosophy, #furry #sync
+tags: #atom, #philosophy, #furry #quartz-sync
 ---
 
 A **therian** is an individual who identifies as or feels like they are a non-human animal in a non-biological sense. This might be because of some aspect of spirituality or psychology, but that's not a defining characteristic--as long as a person's sense of self is being that of a non-human animal. The animal the individual identifies with is called their *theriotype*.

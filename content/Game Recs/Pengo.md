@@ -8,7 +8,7 @@ tags:
 - #gr-jp-dev 
 - #gr-puzzle 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Slide ice cubes around to crush baddies.)

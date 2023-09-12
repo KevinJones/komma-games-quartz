@@ -8,7 +8,7 @@ tags:
 - #gr-acrobat 
 - #gr-maze-game 
 - #gr-jp-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A clown flees from dinosaurs while collecting fruit.)

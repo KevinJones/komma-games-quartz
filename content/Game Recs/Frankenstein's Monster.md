@@ -10,7 +10,7 @@ tags:
 - #gr-horror
 - #gr-modern-history 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Navigate the castle of Dr. Frankenstein.)

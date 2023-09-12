@@ -12,7 +12,7 @@ tags:
 - #gr-fantasy 
 - #gr-skirmisher 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Wizards blast enemies in a maze.)

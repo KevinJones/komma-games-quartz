@@ -12,7 +12,7 @@ tags:
 - #gr-platformer 
 - #gr-architect 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Climb ladders, dig pits to trap enemies, and collect gold.)

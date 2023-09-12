@@ -11,7 +11,7 @@ tags:
 - #gr-contemporary 
 - #gr-war
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Shoot enemy aircraft over a river while keeping your fuel toped off.)

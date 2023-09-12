@@ -9,7 +9,7 @@ tags:
 - #gr-real-time-rpg 
 - #gr-fantasy 
 - #gr-post-classical 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: First-person, real time, fantasy maze dungeon.)

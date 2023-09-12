@@ -11,7 +11,7 @@ tags:
 - #gr-puzzle 
 - #gr-contemporary 
 - #gr-uk-dev 
-- #sync
+- #quartz-sync
 ---
 
 

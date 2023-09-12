@@ -10,7 +10,7 @@ tags:
 - #gr-fantasy 
 - #gr-space 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: The badass 2600 shooter.)

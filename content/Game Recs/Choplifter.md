@@ -10,7 +10,7 @@ tags:
 - #gr-war
 - #gr-acrobat 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A chopper rescue hostages and shoots at enemy tanks.)

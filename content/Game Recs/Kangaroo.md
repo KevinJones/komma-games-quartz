@@ -8,7 +8,7 @@ tags:
 - #gr-jp-dev 
 - #gr-acrobat 
 - #gr-platformer 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A mother kangaroo boxes monkeys.)

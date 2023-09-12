@@ -8,7 +8,7 @@ tags:
 - #gr-na-dev 
 - #gr-space 
 - #gr-supports-multiplayer 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Vectory multiplayer asteroids with color!)

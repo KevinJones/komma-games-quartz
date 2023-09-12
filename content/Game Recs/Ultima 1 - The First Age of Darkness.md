@@ -10,7 +10,7 @@ tags:
 - #gr-turn-based-rpg 
 - #gr-fantasy 
 - #gr-post-classical 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A visitor to Sosaria must find and destroy a magic gem.)

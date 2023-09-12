@@ -1,4 +1,4 @@
-#languages #sync 
+#languages #quartz-sync 
 
 - languages spoken in China, Tibet, Myanmar
 - "Chinese" is the Sinitic branch of the family

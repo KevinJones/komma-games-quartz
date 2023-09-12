@@ -9,7 +9,7 @@ tags:
 - #gr-sci-fi 
 - #gr-space 
 - #gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A first-person simulation of the assault on the Death Star.)

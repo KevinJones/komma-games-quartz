@@ -11,7 +11,7 @@ tags:
 - #gr-puzzle 
 - #gr-acrobat 
 - #gr-fantasy 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A clown in a castle sends unicorn monsters plummeting to their demise.)

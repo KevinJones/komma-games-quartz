@@ -10,7 +10,7 @@ tags:
 - #gr-2d-shooter 
 - #gr-contemporary 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Defender in the desert.)

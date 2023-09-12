@@ -11,7 +11,7 @@ tags:
 - #gr-acrobat 
 - #gr-gardener 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Eat dots and avoid ghosts.)

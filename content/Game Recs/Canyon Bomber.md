@@ -11,7 +11,7 @@ tags:
 - #gr-contemporary 
 - #gr-na-dev 
 - #gr-skirmisher 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Airplanes drop bombs at numbered balloons.)

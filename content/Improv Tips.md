@@ -1,4 +1,4 @@
-#fleeting #writing #ttrpg-gaming #sync 
+#fleeting #writing #ttrpg-gaming #quartz-sync 
 
 This is a list of tips for improv comedy, improvised drama, or tabletop RPG gaming. You can also use them for other collaborative writing.
 

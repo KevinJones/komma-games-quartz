@@ -9,7 +9,7 @@ tags:
 - #gr-puzzle 
 - #gr-acrobat 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A snake in a maze.)

@@ -8,7 +8,7 @@ tags:
 - #gr-racing 
 - #gr-contemporary 
 - #gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: How quickly can you fly through barns?)

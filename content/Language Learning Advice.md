@@ -1,4 +1,4 @@
-#languages #sync 
+#languages #quartz-sync 
 
 - **Motivation**. If you're excited to get started right now, that's great! Write down the reason you want to learn the language so you can come back to it if you ever feel a slump. Some examples: 
 	- I want to better know a person who speaks this language natively.

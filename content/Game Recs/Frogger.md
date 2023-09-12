@@ -8,7 +8,7 @@ tags:
 - #gr-jp-dev 
 - #gr-contemporary 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Why did the frog cross the road?)

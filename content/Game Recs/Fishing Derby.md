@@ -10,7 +10,7 @@ tags:
 - #gr-other-action
 - #gr-contemporary 
 - #gr-skirmisher 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A 2-player fishing contest.)

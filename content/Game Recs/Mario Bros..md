@@ -12,7 +12,7 @@ tags:
 - #gr-skirmisher 
 - #gr-platformer 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Clean up the sewers as Luigi and Mario.)

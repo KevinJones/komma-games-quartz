@@ -8,7 +8,7 @@ date-spec: y
 tags:
 - #gr-jp-dev 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Lasso monsters together.)
