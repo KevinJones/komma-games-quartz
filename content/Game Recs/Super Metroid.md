@@ -5,7 +5,6 @@ platforms:
 - snes
 date-spec: d
 tags:
-- rough
 - #gr-greatest-hits 
 - #gr-platformer 
 - #gr-action-adventure
@@ -15,7 +14,7 @@ tags:
 - #gr-acrobat 
 - #gr-bounty-hunter 
 - #gr-jp-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Samus searches the planet Zebes for an infant Metroid.)

@@ -7,13 +7,12 @@ platforms:
 - lynx
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-puzzle 
 - #gr-platformer 
 - #gr-architect 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Climb ladders, dig pits to trap enemies, and collect gold.)

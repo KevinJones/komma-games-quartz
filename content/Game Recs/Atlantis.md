@@ -5,13 +5,12 @@ platforms:
 - atari 2600
 date-spec: m
 tags:
-- rough
 - #gr-na-dev 
 - #gr-acrobat 
 - #gr-2d-shooter 
 - #gr-fantasy 
 - #gr-futuristic 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Fire shots diagonally to take down enemies.)

@@ -5,13 +5,12 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- rough
 - #gr-2d-shooter 
 - #gr-na-dev 
 - #gr-fantasy 
 - #gr-space 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: The badass 2600 shooter.)

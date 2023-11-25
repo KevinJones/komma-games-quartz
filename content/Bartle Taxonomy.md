@@ -1,10 +1,10 @@
 ---
 title: "Bartle Taxonomy"
 tags:
-- rough
+- needs-work
 - game-design
 - learning
-- #sync
+- #quartz-sync
 ---
 
 1996 paper by Richard Bartle focused on MMO players

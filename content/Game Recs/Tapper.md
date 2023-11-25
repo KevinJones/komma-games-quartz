@@ -5,12 +5,11 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- rough
 - #gr-acrobat 
 - #gr-2d-shooter 
 - #gr-contemporary 
 - #gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Serve beer (or root beer) to impatient customers.)

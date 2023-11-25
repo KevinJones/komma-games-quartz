@@ -5,13 +5,12 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-shmup 
 - #gr-space 
 - #gr-sci-fi 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Shoot down alien formations.)

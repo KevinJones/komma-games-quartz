@@ -5,13 +5,12 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-war 
 - #gr-2d-shooter 
 - #gr-contemporary 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Defender in the desert.)
@@ -21,4 +20,4 @@ Publisher:: Activision
 Release Date:: 1982-01-01
 Hours:: 0.1
 
-A respectable alternative to the arcade [[gamerecs/Defender|Defender]] for the 2600, starring a helicopter in the desert, protecting trucks from enemy bombers.
+A respectable alternative to the arcade [[Defender]] for the 2600, starring a helicopter in the desert, protecting trucks from enemy bombers.

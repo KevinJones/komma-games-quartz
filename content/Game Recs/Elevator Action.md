@@ -5,14 +5,13 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- rough
 - #gr-acrobat 
 - #gr-platformer 
 - #gr-2d-shooter 
 - #gr-contemporary 
 - #gr-crime-and-mystery 
 - #gr-jp-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A super spy extracts documents from a skyscraper with dangerous secrets.)

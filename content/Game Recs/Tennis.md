@@ -5,10 +5,9 @@ platforms:
 - here
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Minimalist tennis.)

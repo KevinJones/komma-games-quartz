@@ -6,13 +6,12 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- rough
 - #gr-supports-multiplayer 
 - #gr-2d-shooter 
 - #gr-contemporary 
 - #gr-na-dev 
 - #gr-skirmisher 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Airplanes drop bombs at numbered balloons.)

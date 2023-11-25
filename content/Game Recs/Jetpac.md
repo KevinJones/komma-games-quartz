@@ -5,14 +5,13 @@ platforms:
 - zx spectrum
 date-spec: y
 tags:
-- rough
 - #gr-uk-dev 
 - #gr-2d-shooter 
 - #gr-platformer 
 - #gr-acrobat 
 - #gr-space 
 - #gr-sci-fi 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A space traveler must rebuild his rocket and defend himself against hostile aliens.)

@@ -5,11 +5,10 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-maze-game 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A trackball-controlled maze game.)

@@ -6,10 +6,9 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-puzzle 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Spin walls to keep monsters away from your flowers.)

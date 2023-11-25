@@ -5,12 +5,11 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-space 
 - #gr-sci-fi 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: 8-way space shooting.)

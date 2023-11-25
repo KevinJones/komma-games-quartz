@@ -5,12 +5,11 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- rough
 - #gr-3d-shooter 
 - #gr-sci-fi 
 - #gr-space 
 - #gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A first-person simulation of the assault on the Death Star.)

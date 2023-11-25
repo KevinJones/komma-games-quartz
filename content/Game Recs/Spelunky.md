@@ -5,14 +5,13 @@ platforms:
 - win
 date-spec: d
 tags:
-- rough
 - gr-platformer
 - gr-modern-roguelike 
 - gr-fantasy 
 - gr-contemporary 
 - gr-acrobat 
 - gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A spelunker jumps through deadly, procedurally-generated caves.)

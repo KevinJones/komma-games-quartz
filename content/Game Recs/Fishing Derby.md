@@ -5,13 +5,12 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-best-in-multiplayer 
 - #gr-other-action
 - #gr-contemporary 
 - #gr-skirmisher 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A 2-player fishing contest.)

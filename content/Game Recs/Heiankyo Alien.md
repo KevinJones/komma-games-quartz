@@ -6,14 +6,13 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-puzzle 
 - #gr-post-classical 
 - #gr-fantasy 
 - #gr-acrobat 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Dig holes to trap aliens.)
@@ -23,6 +22,6 @@ Publisher:: Denki Onkyō
 Release Date:: 1979-01-01
 Hours:: 0.1
 
-A maze game about digging holes in the ground to trap aliens. The original template for games like [[Space Panic]], [[Apple Panic]], and [Lode Runner](gamerecs/Lode%20Runner.md).
+A maze game about digging holes in the ground to trap aliens. The original template for games like [[Space Panic]], [[Apple Panic]], and [[Lode Runner]].
 
 Play Today:: Game Boy

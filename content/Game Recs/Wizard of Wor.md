@@ -5,7 +5,6 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-best-in-multiplayer 
 - #gr-2d-shooter 
@@ -13,7 +12,7 @@ tags:
 - #gr-fantasy 
 - #gr-skirmisher 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Wizards blast enemies in a maze.)

@@ -5,12 +5,11 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-puzzle 
 - #gr-acrobat 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Reclaim sections of the canvas while avoiding hazardous geometry.)

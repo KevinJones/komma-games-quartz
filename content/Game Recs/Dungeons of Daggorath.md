@@ -5,12 +5,11 @@ platforms:
 - trs-80 CoCo
 date-spec: y
 tags:
-- rough
 - #gr-rpghm 
 - #gr-real-time-rpg 
 - #gr-fantasy 
 - #gr-post-classical 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: First-person, real time, fantasy maze dungeon.)

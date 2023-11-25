@@ -6,14 +6,13 @@ platforms:
 - gb
 date-spec: d
 tags:
-- rough
 - #gr-rus-dev 
 - #gr-greatest-hits 
 - #gr-supports-multiplayer 
 - #gr-puzzle 
 - #gr-acrobat 
 - #gr-gardener 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Line up falling blocks into complete rows to keep the well from overflowing.)

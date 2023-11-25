@@ -5,13 +5,12 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- rough
 - #gr-na-dev 
 - #gr-2d-shooter 
 - #gr-contemporary 
 - #gr-acrobat 
 - #gr-war
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Defend cities from ballistic missiles.)

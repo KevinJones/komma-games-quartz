@@ -5,13 +5,12 @@ platforms:
 - apple ii
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-puzzle 
 - #gr-gardener 
 - #gr-acrobat 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A snake pursues food.)

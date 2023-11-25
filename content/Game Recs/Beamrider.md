@@ -5,13 +5,12 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-2d-shooter 
 - #gr-sci-fi 
 - #gr-acrobat 
 - #gr-hidden-gems 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Aesthetic perspective shooter.)

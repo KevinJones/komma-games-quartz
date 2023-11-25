@@ -5,13 +5,12 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-acrobat 
 - #gr-2d-shooter 
 - #gr-space 
 - #gr-sci-fi 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Police the moon, jumping over craters and shooting down flying saucers.)

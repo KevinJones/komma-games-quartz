@@ -5,12 +5,11 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-puzzle 
 - #gr-acrobat 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: An anteater catches ants with its tongue.)

@@ -5,13 +5,13 @@ platforms:
 - zx spectrum
 date-spec: y
 tags:
-- rough
+
 - #gr-acrobat 
 - #gr-architect 
 - #gr-puzzle 
 - #gr-contemporary 
 - #gr-uk-dev 
-- #sync
+- #quartz-sync
 ---
 
 

@@ -5,12 +5,11 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-racing 
 - #gr-contemporary 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Slalom downhill as fast as possible.)

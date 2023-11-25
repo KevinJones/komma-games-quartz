@@ -5,13 +5,12 @@ platforms:
 - here
 date-spec: d
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-maze-game 
 - #gr-puzzle 
 - #gr-gardener 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Dig through soil and burst/crush your enemies.)

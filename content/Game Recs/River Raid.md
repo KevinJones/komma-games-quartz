@@ -5,14 +5,13 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-2d-shooter 
 - #gr-shmup 
 - #gr-contemporary 
 - #gr-war
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Shoot enemy aircraft over a river while keeping your fuel toped off.)

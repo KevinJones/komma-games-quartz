@@ -5,10 +5,9 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- rough
 - #gr-na-dev 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Use a trackball to draw loops around other shapes.)

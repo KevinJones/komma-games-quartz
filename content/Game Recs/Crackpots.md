@@ -5,12 +5,11 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-acrobat 
 - #gr-2d-shooter 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Drop flower pots on bugs.)

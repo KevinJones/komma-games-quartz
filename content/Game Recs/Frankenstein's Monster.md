@@ -5,13 +5,12 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- rough
 - #gr-na-dev 
 - #gr-platformer 
 - #gr-horror
 - #gr-modern-history 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Navigate the castle of Dr. Frankenstein.)

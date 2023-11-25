@@ -2,8 +2,9 @@
 title: "TTRPGs You Can Play For Free"
 tags:
 - ttrpg-gaming 
-- rough
-- #sync
+- atom
+- #lists 
+- #quartz-sync
 ---
 
 This is a list of tabletop RPGs that you can download (or read online) and start playing for free. Only games that have the necessary rules for both players and the GM are free. This isn't an exhaustive list; it's just ones that I think are a cut above average. Don't forget to support the authors and publishers of games that you like!
@@ -40,7 +41,7 @@ This is a list of tabletop RPGs that you can download (or read online) and start
 - [Coriolis](https://www.drivethrurpg.com/product/204702/Coriolis-The-Third-Horizon--Quickstart) is a sci-fi RPG from Free League Publishing; a sort of Arabian Nights in space.
 - [Dungeon Crawl Classics](https://goodman-games.com/store/wp-content/uploads/sites/10/2020/09/DCC_QSR_Free2.pdf) blends late 1970s crawling tropes with d20 mechanics and weird non-polyhedral dice, such as the d7.
 - [EABA Lite](https://www.btrc.net/images/stories/freedownloads/eaba/btr6101_sample.pdf) is a 15-page trial of the *end-all, be-all* generic roleplaying system.
-	- (Todo: not sure how you'd actually play this...)
+	- (Though I am not sure how you'd actually play this...)
 - [Electric Bastionland Free Edition](https://chrismcdee.itch.io/electric-bastionland-free-edition) covers the player-facing rules and ten of the game's 100+ failed careers.
 - [GURPS Lite](http://www.sjgames.com/gurps/lite/), a 32-page distillation of the player-facing GURPS rules.
 	- (again, can you actually bring this to a table and play it?)

@@ -6,14 +6,13 @@ platforms:
 - nes
 date-spec: y
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-acrobat 
 - #gr-supports-multiplayer 
 - #gr-skirmisher 
 - #gr-platformer 
 - #gr-contemporary 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Clean up the sewers as Luigi and Mario.)
@@ -23,7 +22,7 @@ Publisher:: Nintendo
 Release Date:: 1983-03-01
 Hours:: 0.1
 
-This single-screen platform game starring the not-yet-super Mario brothers features two-player simultaneous play, similar to the likes of [Joust](gamerecs/Joust.md) or [Wizard of Wor](gamerecs/Wizard%20of%20Wor.md). You need to eliminate the bad guys first by flipping them onto their backs (by bumping the ground they stand on from below) and then kicking them into the water. Though it controls smoothly enough to provide a satisfying challenge to a single player, it shines with two, letting you cooperate or compete with a friend.
+This single-screen platform game starring the not-yet-super Mario brothers features two-player simultaneous play, similar to the likes of [[Joust]] or [[Wizard of Wor]]. You need to eliminate the bad guys first by flipping them onto their backs (by bumping the ground they stand on from below) and then kicking them into the water. Though it controls smoothly enough to provide a satisfying challenge to a single player, it shines with two, letting you cooperate or compete with a friend.
 
 Play Today:: NES Switch Online
 

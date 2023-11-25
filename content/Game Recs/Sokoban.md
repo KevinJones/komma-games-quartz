@@ -5,11 +5,10 @@ platforms:
 - pc-8801
 date-spec: y
 tags:
-- rough
 - #gr-puzzle 
 - #gr-jp-dev 
 - #gr-architect 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: The eternal block-pushing puzzle.)

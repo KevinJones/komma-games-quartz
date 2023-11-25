@@ -5,11 +5,10 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-acrobat 
 - #gr-platformer 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Climb ladders to make burgers.)

@@ -5,11 +5,10 @@ platforms:
 - here
 date-spec: m
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-2d-shooter 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: An early shmup.)

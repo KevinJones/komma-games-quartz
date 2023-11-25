@@ -5,13 +5,12 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- rough
 - #gr-na-dev
 - #gr-2d-shooter 
 - #gr-futuristic 
 - #gr-sci-fi 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: An intense dystopian shooter.)

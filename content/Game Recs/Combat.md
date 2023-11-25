@@ -5,13 +5,12 @@ platforms:
 - atari 2600
 date-spec: d
 tags:
-- rough
 - #gr-best-in-multiplayer 
 - #gr-2d-shooter 
 - #gr-contemporary 
 - #gr-skirmisher 
 - #gr-na-dev 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: 2 player only. Tanks vs tanks, jets vs jets.)

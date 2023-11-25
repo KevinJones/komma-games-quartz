@@ -5,13 +5,12 @@ platforms:
 - atari 2600
 date-spec: d
 tags:
-- rough
 - #gr-na-dev 
 - #gr-2d-shooter 
 - #gr-space 
 - #gr-sci-fi 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: A groovy little shooting game.)

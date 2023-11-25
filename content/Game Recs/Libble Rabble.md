@@ -6,10 +6,9 @@ platforms:
 - snes
 date-spec: y
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-acrobat 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Lasso monsters together.)

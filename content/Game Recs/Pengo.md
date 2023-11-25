@@ -5,11 +5,10 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- rough
 - #gr-jp-dev 
 - #gr-puzzle 
 - #gr-maze-game 
-- #sync
+- #quartz-sync
 ---
 
 (oneliner:: Slide ice cubes around to crush baddies.)
