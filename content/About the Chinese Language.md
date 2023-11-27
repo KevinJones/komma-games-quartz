@@ -1,0 +1,47 @@
+---
+tags:
+  - languages
+  - chinese
+  - quartz-sync
+---
+- Speakers
+	- 1.35 billion native speakers across all of its varieties
+	- Mandarin Chinese is the official language of China, Singapore, and Taiwan
+	- Cantonese is the official language of Hong Kong and Macau
+	- Significant number of Chinese speakers abroad, such as in the Chinatowns in New York City and San Francisco. Chinese is the third most spoken language in the Unite States and Canada. (Though in the US, Cantonese has been been common than Mandarin.)
+- **Key Points**
+	- You will learn **pinyin** to understand how to pronounce words and syllables using the Latin alphabet.
+	- Mandarin uses **four tones** and a neutral tone to distinguish words. Tones can change the meaning of a word, even if the consonant and vowel sounds stay the same. Pinyin includes tone markers to help your pronunciation.
+	- Each Chinese character is a **logogram**, representing a one-syllable word or a morpheme (unit of meaning). You will learn one of the two writing systems, either the Simplified Chinese character system (used in mainand China and Singapore) or the traditional system (used in Hong Kong, Taiwan, Macau, and Chinese-speaking communities outside mainland China).
+	- Chinese is traditionally written right to left, top to bottom in columns. However, on computers and more contemporary writing, **writing left to right and top to bottom in rows (like English) is quite common**.
+	- Chinese has **few grammatical inflections**. This means there are no tenses (past, future), no numbers (singular, plural), no voices (active voice, passive voice), and only a handful of articles. ("the, a, an")
+	- In contrast, the **word order and sentence structure** is very important to the sentence's meaning. The language also makes **heavy use of grammatical particles**; like adding the word 吧 (_ba_) to turn a statement into a question or suggestion.
+	- Chinese uses a **SVO word order like English** (Subject-verb-object, "Cows eat grass."), and commonly uses **topic-comment** construction.
+		- This differs from the east Asian languages Japanese and Korean, which use SOV.
+	- About 10,000 Chinese characters are in use today, but only about 3,000 are frequently used. A reference dictionary on standard Chinese defines about 70,000 words. If you **learn the 3,000 most common characters** and the compounds they're used in, you should be able to read a Mainland China newspaper.
+- Varieties
+	- Considered by native speakers to be dialects of a single language, but they aren't utually intelligible.
+	- The variety with most speakers is Mandarin (about 800 million)
+	- then Min (75 million), Wu (74 million), Yue (68 million, including Cantonese)
+- Writing systems
+	- Chinese characters, aka Hanzi, in two forms 
+		- traditional characters, which emerged during the Han dynasty, around 200 BC
+		- simplified characters, promoted for use by the government of China since 1956
+	- Zhuyin, aka Bopomofo, a transliteration system commonly used in Taiwan, introduced in mainland china in the 1910s and adopted by Taiwan in 1945.
+	- Pinyin, a romanization system used to teach Mandarin to students familiar with the Latin alphabet. Dates back to the 1950s.
+	- In the United states, most Chinese as a foreign language classes teach simplified characters and Standard Mandarin Chinese.
+- History
+	- over 3,000 years old
+	- "Old Chinese" - used during the Shang dynasty and Zhou dynasty; starting from the 1700s BCE
+	- "Middle Chinese" - used during the Sui dynasty, Tang dynasty, Song dynasty; starting from 500 AD
+	- "Classical Chinese" or "Literary Chinese" - the language of classic literature used for formal writing  between 5th century BCE until the 10th century; different from any modern spoken form of Chinese. Generally speaking, spoken Chinese changed faster than written Chinese.
+	- "Old Mandarin" - a common speech that emerged in northern China after the fall of the Northern Song dynasty. A major source for this language is the *Zhongyuan Yinyun* (1324) dictionary. It shares many features of modern Mandarin dialects.
+	- "Mandarin" - the language spoken by officials of the Ming and Qing dynasties for practical purposes; sharing characteristics with the dialects in the Nanjing area but not the same as any single dialect. It became dominant by around 1850.
+	- "Standard Chinese" - adopted in 1932 when the National Language Unification Commission settled on the Beijing dialect as the standard national language of the Republic of China. The People's Republic retained the standard when it was founded in 1949.
+	- "Cantonese" - the variety of Chinese local to Hong Kong and Macau and used in education, media, and everyday life; though Mandarin is also taught in schools.
+- Chinese and Loanwords
+	- Chinese has an influence on Korean, Japanese, and Vietnamese similar to that of Latin and Ancient Greek on European languages. These languages had writing systems for their speech initially based on Chinese characters, but enentually supplemented with their own scripts. (Korean's hangul, Japanese's kana, Vietnamese's chữ nôm.)
+		- Japanese still uses Chinese characters in its script today, and calls them kanji.
+		- Vietnamese switched to a Latin-based alphabet as a result of French colonization.
+	- Many new compound words were created in the late 19th and 20th centuries to name Western things, technology, and ideas, still written in Chinese characters.
+	- English words borrowed from Chinese: gung ho, ketchup, typhoon, chow, ginseng, long time no see, monsoon, mahjong, oolong, rickshaw, tea, dim sum, kumquat, tofu, sifu.
