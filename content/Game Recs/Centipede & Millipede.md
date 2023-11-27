@@ -5,10 +5,10 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- #gr-na-dev 
-- #gr-2d-shooter 
-- #gr-acrobat 
-- #quartz-sync
+- gr-na-dev
+- gr-2d-shooter
+- gr-acrobat 
+- quartz-sync
 ---
 
 (oneliner:: Protect your garden from invading bug life.)

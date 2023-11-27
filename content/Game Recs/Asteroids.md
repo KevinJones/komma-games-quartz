@@ -5,11 +5,11 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- #gr-na-dev 
-- #gr-acrobat 
-- #gr-2d-shooter 
-- #gr-space 
-- #quartz-sync
+- gr-na-dev
+- gr-acrobat 
+- gr-2d-shooter
+- gr-space 
+- quartz-sync
 ---
 
 (oneliner:: Shoot space rocks.)

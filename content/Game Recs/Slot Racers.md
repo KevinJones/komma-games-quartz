@@ -5,13 +5,13 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- #gr-2d-shooter 
-- #gr-puzzle 
-- #gr-best-in-multiplayer 
-- #gr-skirmisher 
-- #gr-na-dev 
-- #gr-maze-game 
-- #quartz-sync
+- gr-2d-shooter
+- gr-puzzle 
+- gr-best-in-multiplayer
+- gr-skirmisher
+- gr-na-dev
+- gr-maze-game 
+- quartz-sync
 ---
 
 (oneliner:: 2 player only maze combat.)

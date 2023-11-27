@@ -5,14 +5,14 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- #gr-na-dev 
-- #gr-best-in-multiplayer 
-- #gr-2d-shooter 
-- #gr-puzzle 
-- #gr-fantasy 
-- #gr-skirmisher 
-- #gr-maze-game 
-- #quartz-sync
+- gr-na-dev
+- gr-best-in-multiplayer
+- gr-2d-shooter
+- gr-puzzle 
+- gr-fantasy
+- gr-skirmisher
+- gr-maze-game 
+- quartz-sync
 ---
 
 (oneliner:: Wizards blast enemies in a maze.)

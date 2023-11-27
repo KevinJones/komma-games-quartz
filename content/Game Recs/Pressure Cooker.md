@@ -5,10 +5,10 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- #gr-hidden-gems 
-- #gr-na-dev 
-- #gr-contemporary 
-- #quartz-sync
+- gr-hidden-gems
+- gr-na-dev
+- gr-contemporary
+- quartz-sync
 ---
 
 (oneliner:: Flip burgers and drop them down appropriate chutes..)

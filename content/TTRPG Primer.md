@@ -3,8 +3,8 @@ title: "TTRPG Primer"
 tags:
 - ttrpg-gaming
 - primer
-- #atom 
-- #quartz-sync
+- atom 
+- quartz-sync
 ---
 
 **A tabletop RPG is a game in which players discuss a fictional setting and assume the roles of characters within that setting.** The discussion may include acting, improvised storytelling, or a processes of structured decision-making. Most often, actions taken by characters within the game succeed or fail according to a formal system of rules and guidelines.

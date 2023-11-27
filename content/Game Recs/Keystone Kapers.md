@@ -5,11 +5,11 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- #gr-na-dev 
-- #gr-platformer 
-- #gr-acrobat 
-- #gr-contemporary 
-- #quartz-sync
+- gr-na-dev
+- gr-platformer
+- gr-acrobat 
+- gr-contemporary
+- quartz-sync
 ---
 
 (oneliner:: Catch the thief before he escapes the department store.)

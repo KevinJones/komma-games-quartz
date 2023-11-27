@@ -5,12 +5,12 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- #gr-na-dev 
-- #gr-best-in-multiplayer 
-- #gr-other-action
-- #gr-post-classical 
-- #gr-fantasy 
-- #quartz-sync
+- gr-na-dev
+- gr-best-in-multiplayer
+- gr-other-action
+- gr-post-classical
+- gr-fantasy
+- quartz-sync
 ---
 
 (oneliner:: Four-way *Pong*.)

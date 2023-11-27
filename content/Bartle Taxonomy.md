@@ -4,7 +4,7 @@ tags:
 - needs-work
 - game-design
 - learning
-- #quartz-sync
+- quartz-sync
 ---
 
 1996 paper by Richard Bartle focused on MMO players

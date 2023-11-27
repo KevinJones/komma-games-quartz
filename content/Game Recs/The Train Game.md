@@ -6,12 +6,12 @@ platforms:
 date-spec: y
 tags:
 
-- #gr-acrobat 
-- #gr-architect 
-- #gr-puzzle 
-- #gr-contemporary 
-- #gr-uk-dev 
-- #quartz-sync
+- gr-acrobat 
+- gr-architect
+- gr-puzzle 
+- gr-contemporary
+- gr-eu-dev
+- quartz-sync
 ---
 
 

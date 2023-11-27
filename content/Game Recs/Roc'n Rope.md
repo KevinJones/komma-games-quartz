@@ -5,10 +5,10 @@ platforms:
 - here
 date-spec: y
 tags:
-- #gr-jp-dev 
-- #gr-platformer 
-- #gr-acrobat 
-- #quartz-sync
+- gr-jp-dev
+- gr-platformer
+- gr-acrobat 
+- quartz-sync
 ---
 
 (oneliner:: Use your ziplines to climb a prehistoric mountain.)

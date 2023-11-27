@@ -5,11 +5,11 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- #gr-jp-dev 
-- #gr-acrobat 
-- #gr-platformer 
-- #gr-contemporary 
-- #quartz-sync
+- gr-jp-dev
+- gr-acrobat 
+- gr-platformer
+- gr-contemporary
+- quartz-sync
 ---
 
 (oneliner:: Climb ladders and jump around to rescue a damsel from a giant ape.)

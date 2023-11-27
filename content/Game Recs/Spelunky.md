@@ -11,7 +11,7 @@ tags:
 - gr-contemporary 
 - gr-acrobat 
 - gr-na-dev 
-- #quartz-sync
+- quartz-sync
 ---
 
 (oneliner:: A spelunker jumps through deadly, procedurally-generated caves.)

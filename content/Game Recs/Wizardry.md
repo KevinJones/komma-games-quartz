@@ -5,12 +5,12 @@ platforms:
 - apple ii
 date-spec: m
 tags:
-- #gr-rpg 
-- #gr-turn-based-rpg 
-- #gr-fantasy 
-- #gr-post-classical 
-- #gr-na-dev 
-- #quartz-sync
+- gr-rpg
+- gr-turn-based-rpg
+- gr-fantasy
+- gr-post-classical
+- gr-na-dev
+- quartz-sync
 ---
 
 (oneliner:: Describe this game.)

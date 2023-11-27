@@ -5,11 +5,11 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- #gr-na-dev 
-- #gr-sightseer 
-- #gr-2d-shooter 
-- #gr-contemporary 
-- #quartz-sync
+- gr-na-dev
+- gr-sightseer 
+- gr-2d-shooter
+- gr-contemporary
+- quartz-sync
 ---
 
 (oneliner:: Defend your teeth from tooth decay.)

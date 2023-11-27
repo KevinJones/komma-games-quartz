@@ -5,12 +5,12 @@ platforms:
 - apple ii
 date-spec: m
 tags:
-- #gr-na-dev 
-- #gr-rpg 
-- #gr-turn-based-rpg 
-- #gr-fantasy 
-- #gr-post-classical 
-- #quartz-sync
+- gr-na-dev
+- gr-rpg
+- gr-turn-based-rpg
+- gr-fantasy
+- gr-post-classical
+- quartz-sync
 ---
 
 (oneliner:: A visitor to Sosaria must find and destroy a magic gem.)

@@ -5,13 +5,13 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- #gr-na-dev 
-- #gr-puzzle 
-- #gr-greatest-hits 
-- #gr-gardener 
-- #gr-acrobat 
-- #gr-maze-game 
-- #quartz-sync
+- gr-na-dev
+- gr-puzzle 
+- gr-greatest-hits
+- gr-gardener
+- gr-acrobat 
+- gr-maze-game 
+- quartz-sync
 ---
 
 (oneliner:: Pac-Man with new mazes and randomized ghosts.)

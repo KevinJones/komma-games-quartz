@@ -5,13 +5,13 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- #gr-jp-dev 
-- #gr-greatest-hits 
-- #gr-puzzle 
-- #gr-acrobat 
-- #gr-gardener 
-- #gr-maze-game 
-- #quartz-sync
+- gr-jp-dev
+- gr-greatest-hits
+- gr-puzzle 
+- gr-acrobat 
+- gr-gardener
+- gr-maze-game 
+- quartz-sync
 ---
 
 (oneliner:: Eat dots and avoid ghosts.)

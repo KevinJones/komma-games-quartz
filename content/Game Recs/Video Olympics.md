@@ -5,10 +5,10 @@ platforms:
 - atari 2600
 date-spec: d
 tags:
-- #gr-best-in-multiplayer 
-- #gr-skirmisher 
-- #gr-na-dev 
-- #quartz-sync
+- gr-best-in-multiplayer
+- gr-skirmisher
+- gr-na-dev
+- quartz-sync
 ---
 
 (oneliner:: Four-player variety pong.)

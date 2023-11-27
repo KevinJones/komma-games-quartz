@@ -6,11 +6,11 @@ platforms:
 - bbc micro
 date-spec: y
 tags:
-- #gr-uk-dev 
-- #gr-platformer 
-- #gr-acrobat 
-- #gr-contemporary 
-- #quartz-sync
+- gr-eu-dev
+- gr-platformer
+- gr-acrobat 
+- gr-contemporary
+- quartz-sync
 ---
 
 (oneliner:: Collect eggs, avoid ducks.)

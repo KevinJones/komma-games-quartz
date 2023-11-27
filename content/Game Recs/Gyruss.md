@@ -6,13 +6,13 @@ platforms:
 - nes
 date-spec: m
 tags:
-- #gr-2d-shooter 
-- #gr-shmup 
-- #gr-acrobat 
-- #gr-jp-dev 
-- #gr-space 
-- #gr-sci-fi 
-- #quartz-sync
+- gr-2d-shooter
+- gr-shmup 
+- gr-acrobat 
+- gr-jp-dev
+- gr-space 
+- gr-sci-fi 
+- quartz-sync
 ---
 
 (oneliner:: Shoot ships in space while touring the solar system.)

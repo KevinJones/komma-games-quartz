@@ -6,10 +6,10 @@ platforms:
 - colecovision
 date-spec: y
 tags:
-- #gr-2d-shooter 
-- #gr-fantasy 
-- #gr-na-dev 
-- #quartz-sync
+- gr-2d-shooter
+- gr-fantasy
+- gr-na-dev
+- quartz-sync
 ---
 
 (oneliner:: Shoot bad guys with arrows and collect treasure.)

@@ -5,12 +5,12 @@ platforms:
 - apple ii
 date-spec: y
 tags:
-- #gr-na-dev 
-- #gr-2d-shooter 
-- #gr-war
-- #gr-acrobat 
-- #gr-contemporary 
-- #quartz-sync
+- gr-na-dev
+- gr-2d-shooter
+- gr-war
+- gr-acrobat 
+- gr-contemporary
+- quartz-sync
 ---
 
 (oneliner:: A chopper rescue hostages and shoots at enemy tanks.)

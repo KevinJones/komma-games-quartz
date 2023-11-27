@@ -5,10 +5,10 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- #gr-jp-dev 
-- #gr-acrobat 
-- #gr-platformer 
-- #quartz-sync
+- gr-jp-dev
+- gr-acrobat 
+- gr-platformer
+- quartz-sync
 ---
 
 (oneliner:: A mother kangaroo boxes monkeys.)

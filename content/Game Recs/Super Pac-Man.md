@@ -5,11 +5,11 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- #gr-acrobat 
-- #gr-gardener 
-- #gr-jp-dev 
-- #gr-maze-game 
-- #quartz-sync
+- gr-acrobat 
+- gr-gardener
+- gr-jp-dev
+- gr-maze-game 
+- quartz-sync
 ---
 
 (oneliner:: Pac-Man unlocks new doors.)

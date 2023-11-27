@@ -5,11 +5,11 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- #gr-acrobat 
-- #gr-contemporary 
-- #gr-racing 
-- #gr-na-dev 
-- #quartz-sync
+- gr-acrobat 
+- gr-contemporary
+- gr-racing
+- gr-na-dev
+- quartz-sync
 ---
 
 (oneliner:: Avoid crashing into other cars.)

@@ -5,12 +5,12 @@ date-spec: y
 platforms:
 - arcade
 tags:
-- #gr-jp-dev 
-- #gr-2d-shooter 
-- #gr-modern-history 
-- #gr-crime-and-mystery 
-- #gr-acrobat 
-- #quartz-sync
+- gr-jp-dev
+- gr-2d-shooter
+- gr-modern-history
+- gr-crime-and-mystery
+- gr-acrobat 
+- quartz-sync
 ---
 
 (oneliner:: A sheriff spins around and shoots outlaws.)

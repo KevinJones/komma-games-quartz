@@ -5,9 +5,9 @@ platforms:
 - intellivision
 date-spec: m
 tags:
-- #gr-na-dev 
-- #gr-acrobat 
-- #quartz-sync
+- gr-na-dev
+- gr-acrobat 
+- quartz-sync
 ---
 
 (oneliner:: Big fish eat smaller fish, get bigger.)

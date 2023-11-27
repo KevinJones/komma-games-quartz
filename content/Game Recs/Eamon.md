@@ -5,12 +5,12 @@ platforms:
 - apple ii
 date-spec: y
 tags:
-- #gr-rpghm 
-- #gr-fantasy 
-- #gr-post-classical
-- #gr-na-dev 
-- #gr-bounty-hunter 
-- #quartz-sync
+- gr-rpghm
+- gr-fantasy
+- gr-post-classical
+- gr-na-dev
+- gr-bounty-hunter
+- quartz-sync
 ---
 
 (oneliner:: A charming text RPG.)

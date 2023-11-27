@@ -5,12 +5,12 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- #gr-jp-dev 
-- #gr-acrobat 
-- #gr-2d-shooter 
-- #gr-sci-fi 
-- #gr-contemporary 
-- #quartz-sync
+- gr-jp-dev
+- gr-acrobat 
+- gr-2d-shooter
+- gr-sci-fi 
+- gr-contemporary
+- quartz-sync
 ---
 
 (oneliner:: A free-roaming plane shooter.)

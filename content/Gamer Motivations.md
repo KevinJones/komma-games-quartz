@@ -4,7 +4,7 @@ tags:
 - clean
 - primer
 - game-design
-- #quartz-sync
+- quartz-sync
 ---
 
 > Video games are meant to be just one thing. Fun. Fun for everyone! -Satoru Iwata

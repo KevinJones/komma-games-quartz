@@ -5,13 +5,13 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- #gr-na-dev 
-- #gr-platformer 
-- #gr-2d-shooter 
-- #gr-acrobat 
-- #gr-space 
-- #gr-sci-fi 
-- #quartz-sync
+- gr-na-dev
+- gr-platformer
+- gr-2d-shooter
+- gr-acrobat 
+- gr-space 
+- gr-sci-fi 
+- quartz-sync
 ---
 
 (oneliner:: Infiltrate and blow up space stations.)

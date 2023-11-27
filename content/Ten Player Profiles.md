@@ -5,7 +5,7 @@ tags:
 - reference
 - learning
 - game-design
-- #quartz-sync
+- quartz-sync
 ---
 
 10 player segments emerged when conducting a clustering analysis of the roughly 500,000 gamers who took the [Gamer Motivation Profile](https://apps.quanticfoundry.com/surveys/start/gamerprofile/) survey conducted by Quantic Foundry. They are:

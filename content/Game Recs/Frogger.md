@@ -5,10 +5,10 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- #gr-jp-dev 
-- #gr-contemporary 
-- #gr-acrobat 
-- #quartz-sync
+- gr-jp-dev
+- gr-contemporary
+- gr-acrobat 
+- quartz-sync
 ---
 
 (oneliner:: Why did the frog cross the road?)

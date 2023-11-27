@@ -5,11 +5,11 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- #gr-na-dev 
-- #gr-horror 
-- #gr-contemporary 
-- #gr-maze-game 
-- #quartz-sync
+- gr-na-dev
+- gr-horror 
+- gr-contemporary
+- gr-maze-game 
+- quartz-sync
 ---
 
 (oneliner:: Reassumble the burial urn and leave the dark mansion alive.)

@@ -5,12 +5,12 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- #gr-acrobat 
-- #gr-space 
-- #gr-sci-fi 
-- #gr-na-dev 
-- #gr-2d-shooter 
-- #quartz-sync
+- gr-acrobat 
+- gr-space 
+- gr-sci-fi 
+- gr-na-dev
+- gr-2d-shooter
+- quartz-sync
 ---
 
 (oneliner:: Battle an intelligent, talking spacecraft.)

@@ -5,12 +5,12 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- #gr-na-dev
-- #gr-2d-shooter 
-- #gr-futuristic 
-- #gr-sci-fi 
-- #gr-acrobat 
-- #quartz-sync
+- gr-na-dev
+- gr-2d-shooter
+- gr-futuristic
+- gr-sci-fi 
+- gr-acrobat 
+- quartz-sync
 ---
 
 (oneliner:: An intense dystopian shooter.)

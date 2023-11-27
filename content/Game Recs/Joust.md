@@ -5,12 +5,11 @@ platforms:
 - here
 date-spec: d
 tags:
-- rough
-- #gr-na-dev 
-- #gr-fantasy 
-- #gr-supports-multiplayer 
-- #gr-acrobat 
-- #sync
+- gr-na-dev
+- gr-fantasy
+- gr-supports-multiplayer
+- gr-acrobat 
+- quartz-sync
 ---
 
 (oneliner:: Knights battle in flight on large birds.)
