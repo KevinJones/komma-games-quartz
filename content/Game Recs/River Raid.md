@@ -6,11 +6,11 @@ platforms:
 date-spec: y
 tags:
 - gr-na-dev
-- gr-2d-shooter
-- gr-shmup 
-- gr-contemporary
+- gr-2d-shooter 
+- gr-shmup
+- gr-contemporary 
 - gr-war
-- gr-acrobat 
+- gr-acrobat
 - quartz-sync
 ---
 

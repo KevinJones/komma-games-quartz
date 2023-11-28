@@ -6,9 +6,9 @@ platforms:
 date-spec: y
 tags:
 - gr-na-dev
-- gr-sightseer 
-- gr-2d-shooter
-- gr-contemporary
+- gr-sightseer
+- gr-2d-shooter 
+- gr-contemporary 
 - quartz-sync
 ---
 

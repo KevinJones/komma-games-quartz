@@ -7,7 +7,7 @@ platforms:
 date-spec: y
 tags:
 - gr-na-dev
-- gr-puzzle 
+- gr-puzzle
 - quartz-sync
 ---
 

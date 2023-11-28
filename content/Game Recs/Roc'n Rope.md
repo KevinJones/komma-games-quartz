@@ -7,7 +7,7 @@ date-spec: y
 tags:
 - gr-jp-dev
 - gr-platformer
-- gr-acrobat 
+- gr-acrobat
 - quartz-sync
 ---
 

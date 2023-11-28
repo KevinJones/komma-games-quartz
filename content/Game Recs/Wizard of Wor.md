@@ -7,11 +7,11 @@ date-spec: y
 tags:
 - gr-na-dev
 - gr-best-in-multiplayer
-- gr-2d-shooter
-- gr-puzzle 
+- gr-2d-shooter 
+- gr-puzzle
 - gr-fantasy
 - gr-skirmisher
-- gr-maze-game 
+- gr-maze-game
 - quartz-sync
 ---
 

@@ -6,9 +6,9 @@ platforms:
 date-spec: d
 tags:
 - gr-jp-dev
-- gr-acrobat 
+- gr-acrobat
 - gr-platformer
-- gr-contemporary
+- gr-contemporary 
 - quartz-sync
 ---
 

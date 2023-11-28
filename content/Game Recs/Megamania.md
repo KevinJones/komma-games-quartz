@@ -6,10 +6,10 @@ platforms:
 date-spec: d
 tags:
 - gr-na-dev
-- gr-2d-shooter
-- gr-space 
-- gr-sci-fi 
-- gr-acrobat 
+- gr-2d-shooter 
+- gr-space
+- gr-sci-fi
+- gr-acrobat
 - quartz-sync
 ---
 

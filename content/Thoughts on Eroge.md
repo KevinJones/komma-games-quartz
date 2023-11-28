@@ -1,8 +1,8 @@
 ---
 title: "Thoughts on Eroge"
-draft: false
+draft: true
 tags:
-- rough
+- rough 
 - quartz-sync
 ---
 

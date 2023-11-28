@@ -9,7 +9,7 @@ tags:
 - gr-platformer
 - gr-horror
 - gr-modern-history
-- gr-acrobat 
+- gr-acrobat
 - quartz-sync
 ---
 

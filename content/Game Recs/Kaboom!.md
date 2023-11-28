@@ -6,7 +6,7 @@ platforms:
 date-spec: y
 tags:
 - gr-na-dev
-- gr-acrobat 
+- gr-acrobat
 - quartz-sync
 ---
 

@@ -6,10 +6,10 @@ platforms:
 - arcade
 tags:
 - gr-jp-dev
-- gr-2d-shooter
+- gr-2d-shooter 
 - gr-modern-history
 - gr-crime-and-mystery
-- gr-acrobat 
+- gr-acrobat
 - quartz-sync
 ---
 

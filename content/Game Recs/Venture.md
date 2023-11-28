@@ -6,7 +6,7 @@ platforms:
 - colecovision
 date-spec: y
 tags:
-- gr-2d-shooter
+- gr-2d-shooter 
 - gr-fantasy
 - gr-na-dev
 - quartz-sync

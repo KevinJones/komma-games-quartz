@@ -6,7 +6,7 @@ platforms:
 date-spec: y
 tags:
 - gr-rpghm
-- gr-real-time-rpg
+- gr-real-time-rpg 
 - gr-fantasy
 - gr-post-classical
 - quartz-sync

@@ -6,10 +6,10 @@ platforms:
 date-spec: d
 tags:
 - gr-jp-dev
-- gr-maze-game 
-- gr-puzzle 
+- gr-maze-game
+- gr-puzzle
 - gr-gardener
-- gr-acrobat 
+- gr-acrobat
 - quartz-sync
 ---
 

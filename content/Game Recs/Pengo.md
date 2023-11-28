@@ -6,8 +6,8 @@ platforms:
 date-spec: d
 tags:
 - gr-jp-dev
-- gr-puzzle 
-- gr-maze-game 
+- gr-puzzle
+- gr-maze-game
 - quartz-sync
 ---
 

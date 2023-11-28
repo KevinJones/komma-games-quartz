@@ -6,11 +6,11 @@ platforms:
 date-spec: d
 tags:
 - gr-na-dev
-- gr-puzzle 
+- gr-puzzle
 - gr-greatest-hits
 - gr-gardener
-- gr-acrobat 
-- gr-maze-game 
+- gr-acrobat
+- gr-maze-game
 - quartz-sync
 ---
 

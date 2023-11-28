@@ -5,11 +5,11 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- gr-acrobat 
-- gr-space 
-- gr-sci-fi 
+- gr-acrobat
+- gr-space
+- gr-sci-fi
 - gr-na-dev
-- gr-2d-shooter
+- gr-2d-shooter 
 - quartz-sync
 ---
 

@@ -7,9 +7,9 @@ date-spec: y
 tags:
 - gr-jp-dev
 - gr-platformer
-- gr-maze-game 
-- gr-puzzle 
-- gr-acrobat 
+- gr-maze-game
+- gr-puzzle
+- gr-acrobat
 - gr-fantasy
 - quartz-sync
 ---

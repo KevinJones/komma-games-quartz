@@ -6,7 +6,7 @@ platforms:
 date-spec: y
 tags:
 - gr-na-dev
-- gr-contemporary
+- gr-contemporary 
 - quartz-sync
 ---
 

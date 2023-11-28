@@ -6,9 +6,9 @@ platforms:
 date-spec: y
 tags:
 - gr-na-dev
-- gr-racing
-- gr-contemporary
-- gr-acrobat 
+- gr-racing 
+- gr-contemporary 
+- gr-acrobat
 - quartz-sync
 ---
 

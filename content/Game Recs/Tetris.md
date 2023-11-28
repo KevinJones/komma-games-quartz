@@ -6,11 +6,11 @@ platforms:
 - gb
 date-spec: d
 tags:
-- gr-eu-dev 
+- gr-rus-dev
 - gr-greatest-hits
 - gr-supports-multiplayer
-- gr-puzzle 
-- gr-acrobat 
+- gr-puzzle
+- gr-acrobat
 - gr-gardener
 - quartz-sync
 ---

@@ -7,8 +7,8 @@ date-spec: y
 tags:
 - gr-na-dev
 - gr-horror 
-- gr-contemporary
-- gr-maze-game 
+- gr-contemporary 
+- gr-maze-game
 - quartz-sync
 ---
 

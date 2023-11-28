@@ -5,8 +5,8 @@ platforms:
 - arcade
 date-spec: m
 tags:
-- gr-shmup 
-- gr-acrobat 
+- gr-shmup
+- gr-acrobat
 - gr-na-dev
 - quartz-sync
 ---

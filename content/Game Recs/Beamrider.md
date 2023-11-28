@@ -6,9 +6,9 @@ platforms:
 date-spec: y
 tags:
 - gr-na-dev
-- gr-2d-shooter
-- gr-sci-fi 
-- gr-acrobat 
+- gr-2d-shooter 
+- gr-sci-fi
+- gr-acrobat
 - gr-hidden-gems
 - quartz-sync
 ---

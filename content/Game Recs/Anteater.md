@@ -6,9 +6,9 @@ platforms:
 date-spec: y
 tags:
 - gr-na-dev
-- gr-puzzle 
-- gr-acrobat 
-- gr-maze-game 
+- gr-puzzle
+- gr-acrobat
+- gr-maze-game
 - quartz-sync
 ---
 

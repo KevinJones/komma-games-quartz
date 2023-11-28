@@ -6,7 +6,7 @@ platforms:
 date-spec: y
 tags:
 - gr-na-dev
-- gr-space 
+- gr-space
 - gr-supports-multiplayer
 - quartz-sync
 ---

@@ -7,9 +7,9 @@ date-spec: y
 tags:
 - gr-na-dev
 - gr-platformer
-- gr-futuristic
-- gr-sci-fi 
-- gr-acrobat 
+- gr-futuristic 
+- gr-sci-fi
+- gr-acrobat
 - quartz-sync
 ---
 

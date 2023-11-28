@@ -8,10 +8,10 @@ platforms:
 date-spec: y
 tags:
 - gr-na-dev
-- gr-puzzle 
+- gr-puzzle
 - gr-platformer
 - gr-architect
-- gr-acrobat 
+- gr-acrobat
 - quartz-sync
 ---
 

@@ -6,10 +6,10 @@ platforms:
 - bbc micro
 date-spec: y
 tags:
-- gr-eu-dev
+- gr-uk-dev
 - gr-platformer
-- gr-acrobat 
-- gr-contemporary
+- gr-acrobat
+- gr-contemporary 
 - quartz-sync
 ---
 

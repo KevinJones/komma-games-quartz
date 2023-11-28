@@ -5,9 +5,9 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- gr-acrobat 
-- gr-2d-shooter
-- gr-contemporary
+- gr-acrobat
+- gr-2d-shooter 
+- gr-contemporary 
 - gr-na-dev
 - quartz-sync
 ---

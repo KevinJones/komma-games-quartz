@@ -5,10 +5,10 @@ platforms:
 - arcade
 date-spec: d
 tags:
-- gr-acrobat 
+- gr-acrobat
 - gr-gardener
 - gr-jp-dev
-- gr-maze-game 
+- gr-maze-game
 - quartz-sync
 ---
 

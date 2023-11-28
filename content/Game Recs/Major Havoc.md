@@ -7,10 +7,10 @@ date-spec: y
 tags:
 - gr-na-dev
 - gr-platformer
-- gr-2d-shooter
-- gr-acrobat 
-- gr-space 
-- gr-sci-fi 
+- gr-2d-shooter 
+- gr-acrobat
+- gr-space
+- gr-sci-fi
 - quartz-sync
 ---
 

@@ -7,7 +7,7 @@ date-spec: y
 tags:
 - gr-skirmisher
 - gr-best-in-multiplayer
-- gr-maze-game 
+- gr-maze-game
 - gr-na-dev
 - quartz-sync
 ---

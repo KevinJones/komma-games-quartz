@@ -6,10 +6,10 @@ platforms:
 date-spec: m
 tags:
 - gr-jp-dev
-- gr-shmup 
-- gr-space 
-- gr-sci-fi 
-- gr-acrobat 
+- gr-shmup
+- gr-space
+- gr-sci-fi
+- gr-acrobat
 - quartz-sync
 ---
 

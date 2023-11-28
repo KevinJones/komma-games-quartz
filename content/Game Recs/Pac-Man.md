@@ -7,10 +7,10 @@ date-spec: d
 tags:
 - gr-jp-dev
 - gr-greatest-hits
-- gr-puzzle 
-- gr-acrobat 
+- gr-puzzle
+- gr-acrobat
 - gr-gardener
-- gr-maze-game 
+- gr-maze-game
 - quartz-sync
 ---
 

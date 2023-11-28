@@ -7,11 +7,11 @@ platforms:
 date-spec: y
 tags:
 - gr-jp-dev
-- gr-acrobat 
+- gr-acrobat
 - gr-supports-multiplayer
 - gr-skirmisher
 - gr-platformer
-- gr-contemporary
+- gr-contemporary 
 - quartz-sync
 ---
 

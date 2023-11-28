@@ -7,8 +7,8 @@ date-spec: y
 tags:
 - gr-na-dev
 - gr-platformer
-- gr-acrobat 
-- gr-contemporary
+- gr-acrobat
+- gr-contemporary 
 - quartz-sync
 ---
 

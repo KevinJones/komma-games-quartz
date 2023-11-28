@@ -5,11 +5,11 @@ platforms:
 - atari 2600
 date-spec: y
 tags:
-- gr-2d-shooter
+- gr-2d-shooter 
 - gr-na-dev
 - gr-fantasy
-- gr-space 
-- gr-acrobat 
+- gr-space
+- gr-acrobat
 - quartz-sync
 ---
 

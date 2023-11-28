@@ -1,6 +1,6 @@
 ---
 title: "Game Reviews and Recommendations"
-draft: true
+draft: false
 tags:
 - rough 
 - game-recommendations 

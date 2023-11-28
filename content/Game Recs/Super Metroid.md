@@ -8,11 +8,11 @@ tags:
 - gr-greatest-hits
 - gr-platformer
 - gr-action-adventure
-- gr-2d-shooter
-- gr-space 
-- gr-sci-fi 
-- gr-acrobat 
-- gr-bounty-hunter
+- gr-2d-shooter 
+- gr-space
+- gr-sci-fi
+- gr-acrobat
+- gr-bounty-hunter 
 - gr-jp-dev
 - quartz-sync
 ---

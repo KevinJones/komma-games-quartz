@@ -6,8 +6,8 @@ platforms:
 date-spec: m
 tags:
 - gr-3d-shooter
-- gr-sci-fi 
-- gr-space 
+- gr-sci-fi
+- gr-space
 - gr-na-dev
 - quartz-sync
 ---

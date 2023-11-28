@@ -5,10 +5,10 @@ platforms:
 - arcade
 date-spec: y
 tags:
-- gr-acrobat 
+- gr-acrobat
 - gr-platformer
-- gr-2d-shooter
-- gr-contemporary
+- gr-2d-shooter 
+- gr-contemporary 
 - gr-crime-and-mystery
 - gr-jp-dev
 - quartz-sync

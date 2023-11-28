@@ -6,8 +6,8 @@ platforms:
 date-spec: d
 tags:
 - gr-best-in-multiplayer
-- gr-2d-shooter
-- gr-contemporary
+- gr-2d-shooter 
+- gr-contemporary 
 - gr-skirmisher
 - gr-na-dev
 - quartz-sync

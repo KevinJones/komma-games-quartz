@@ -7,7 +7,7 @@ date-spec: y
 tags:
 - gr-hidden-gems
 - gr-na-dev
-- gr-contemporary
+- gr-contemporary 
 - quartz-sync
 ---
 

@@ -5,7 +5,7 @@ platforms:
 - pc-8801
 date-spec: y
 tags:
-- gr-puzzle 
+- gr-puzzle
 - gr-jp-dev
 - gr-architect
 - quartz-sync

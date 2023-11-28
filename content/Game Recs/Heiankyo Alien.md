@@ -7,11 +7,11 @@ platforms:
 date-spec: y
 tags:
 - gr-jp-dev
-- gr-puzzle 
+- gr-puzzle
 - gr-post-classical
 - gr-fantasy
-- gr-acrobat 
-- gr-maze-game 
+- gr-acrobat
+- gr-maze-game
 - quartz-sync
 ---
 
