@@ -2,7 +2,7 @@
 title: "Game Emulator Notes"
 draft: false
 tags:
-- rough 
+- rough
 - quartz-sync
 ---
 
@@ -23,7 +23,7 @@ A few notes about what to expect:
 - **Displays:** Today, almost all devices use a flat-panel display with square pixels. However, this wasn't always the case on older systems; they were usually stretched to fill a 4:3 CRT television. Think "blurry rectangle" rather than "sharp square". For example, the SNES's pixel blocks are not 1:1, but more like 8:7; slightly wider than tall. The 320x200 resolution of many DOS games was stretched vertically. If you don't like the sharp edges of pixels, you can get closer to an intended look by using shaders. Some good test cases:
 	- The dithered waterfalls of *Sonic the Hedgehog* look closer to the intended transparency effect over composite video output, rather than RGB.
 	- The user interface of *Wave Race* for the Game Boy should look translucent due to intentional ghosting, rather than flickering.
-	- DOS games should not appear "widescreen". 
+	- DOS games should not appear "widescreen".
 
 ## The Browser Option
 

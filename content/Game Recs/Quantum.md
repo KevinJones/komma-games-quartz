@@ -1,5 +1,5 @@
 ---
-title: "TitleHere"
+title: "Quantum"
 draft: false
 platforms:
 - arcade

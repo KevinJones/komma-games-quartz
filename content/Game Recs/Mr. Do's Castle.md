@@ -1,5 +1,5 @@
 ---
-title: "TitleHere"
+title: "Mr. Do's Castle"
 draft: false
 platforms:
 - arcade
