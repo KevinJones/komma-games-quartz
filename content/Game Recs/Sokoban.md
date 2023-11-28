@@ -1,14 +1,14 @@
 ---
 title: "Sokoban"
-draft: false
+draft: true
 platforms:
 - pc-8801
 date-spec: y
 tags:
-- gr-puzzle 
-- gr-jp-dev
-- gr-architect
-- quartz-sync
+- #gr-puzzle 
+- #gr-jp-dev 
+- #gr-architect 
+- #quartz-sync
 ---
 
 (oneliner:: The eternal block-pushing puzzle.)

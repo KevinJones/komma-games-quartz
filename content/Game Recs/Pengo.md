@@ -1,14 +1,14 @@
 ---
 title: "Pengo"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: d
 tags:
-- gr-jp-dev
-- gr-puzzle 
-- gr-maze-game 
-- quartz-sync
+- #gr-jp-dev 
+- #gr-puzzle 
+- #gr-maze-game 
+- #quartz-sync
 ---
 
 (oneliner:: Slide ice cubes around to crush baddies.)

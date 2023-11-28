@@ -5,7 +5,7 @@ tags:
 - game-design
 - learning
 - magic-the-gathering
-- quartz-sync
+- #quartz-sync
 ---
 
 Mark Rosewater is an American game designer best known for being the head designer for the collectible card game *Magic: The Gathering*, a position he's held since 2003. He writes a column called "Making Magic" where he gives a behind-the-scenes look on how *Magic* cards are made. Around 2002, he wrote an article titled "Timmy, Johnny, and Spike", in which he explained three psychographic profiles that Wizards of the Coast uses when developing their products. If their goal is to make "something for everybody", then these are the "everybodies" they have in mind.

@@ -1,14 +1,14 @@
 ---
 title: "Mr. Do!"
-draft: false
+draft: true
 platforms:
 - here
 date-spec: m
 tags:
-- gr-acrobat 
-- gr-maze-game 
-- gr-jp-dev
-- quartz-sync
+- #gr-acrobat 
+- #gr-maze-game 
+- #gr-jp-dev 
+- #quartz-sync
 ---
 
 (oneliner:: A clown flees from dinosaurs while collecting fruit.)

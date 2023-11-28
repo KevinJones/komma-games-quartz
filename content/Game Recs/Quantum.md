@@ -1,13 +1,13 @@
 ---
 title: "TitleHere"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: m
 tags:
-- gr-na-dev
-- gr-acrobat 
-- quartz-sync
+- #gr-na-dev 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: Use a trackball to draw loops around other shapes.)

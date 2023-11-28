@@ -1,15 +1,15 @@
 ---
 title: "Defender"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: m
 tags:
-- gr-na-dev
-- gr-2d-shooter
-- gr-space 
-- gr-acrobat 
-- quartz-sync
+- #gr-na-dev 
+- #gr-2d-shooter 
+- #gr-space 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: Defend a landscape from space aliens.)

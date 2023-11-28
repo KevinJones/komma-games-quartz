@@ -1,15 +1,15 @@
 ---
 title: "Lunar Rescue"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: m
 tags:
-- gr-2d-shooter
-- gr-space 
-- gr-acrobat 
-- gr-jp-dev
-- quartz-sync
+- #gr-2d-shooter 
+- #gr-space 
+- #gr-acrobat 
+- #gr-jp-dev 
+- #quartz-sync
 ---
 
 (oneliner:: A spaceship avoids obstacles while crossing the screen.)

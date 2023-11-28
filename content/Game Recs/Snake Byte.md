@@ -1,16 +1,16 @@
 ---
 title: "Snake Byte"
-draft: false
+draft: true
 platforms:
 - apple ii
 date-spec: y
 tags:
-- gr-na-dev
-- gr-puzzle 
-- gr-gardener
-- gr-acrobat 
-- gr-maze-game 
-- quartz-sync
+- #gr-na-dev 
+- #gr-puzzle 
+- #gr-gardener 
+- #gr-acrobat 
+- #gr-maze-game 
+- #quartz-sync
 ---
 
 (oneliner:: A snake pursues food.)

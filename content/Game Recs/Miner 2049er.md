@@ -1,16 +1,16 @@
 ---
 title: "Miner 2049er"
-draft: false
+draft: true
 platforms:
 - atari 8-bit
 date-spec: y
 tags:
-- gr-na-dev
-- gr-platformer
-- gr-futuristic
-- gr-sci-fi 
-- gr-acrobat 
-- quartz-sync
+- #gr-na-dev 
+- #gr-platformer 
+- #gr-futuristic 
+- #gr-sci-fi 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: Platform through 21st century Canadian uranium mines.)

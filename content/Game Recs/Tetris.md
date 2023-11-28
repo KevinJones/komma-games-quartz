@@ -1,18 +1,18 @@
 ---
 title: "TitleHere"
-draft: false
+draft: true
 platforms:
 - nes
 - gb
 date-spec: d
 tags:
-- gr-eu-dev 
-- gr-greatest-hits
-- gr-supports-multiplayer
-- gr-puzzle 
-- gr-acrobat 
-- gr-gardener
-- quartz-sync
+- #gr-rus-dev 
+- #gr-greatest-hits 
+- #gr-supports-multiplayer 
+- #gr-puzzle 
+- #gr-acrobat 
+- #gr-gardener 
+- #quartz-sync
 ---
 
 (oneliner:: Line up falling blocks into complete rows to keep the well from overflowing.)

@@ -1,14 +1,14 @@
 ---
 title: "Lady Bug"
-draft: false
+draft: true
 platforms:
 - colecovision
 - arcade
 date-spec: y
 tags:
-- gr-na-dev
-- gr-puzzle 
-- quartz-sync
+- #gr-na-dev 
+- #gr-puzzle 
+- #quartz-sync
 ---
 
 (oneliner:: Spin walls to keep monsters away from your flowers.)

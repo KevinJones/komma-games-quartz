@@ -1,6 +1,6 @@
 ---
 title: "Celeste"
-draft: false
+draft: true
 platforms: [ps4, xb1, switch, win, mac]
 date-spec: d
 tags:
@@ -8,7 +8,7 @@ tags:
 - gr-contemporary 
 - gr-acrobat 
 - gr-na-dev 
-- quartz-sync
+- #quartz-sync
 ---
 
 (oneliner:: Face your doubts and climb a mountain in this precise platformer.)

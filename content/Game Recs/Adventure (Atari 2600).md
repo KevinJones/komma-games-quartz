@@ -1,16 +1,16 @@
 ---
 title: "Adventure (Atari 2600)"
-draft: false
+draft: true
 platforms:
 - atari 2600
 date-spec: y
 tags:
-- gr-na-dev 
-- gr-action-adventure 
-- gr-post-classical 
-- gr-fantasy 
-- gr-bounty-hunter 
-- quartz-sync
+- #gr-na-dev 
+- #gr-action-adventure 
+- #gr-post-classical 
+- #gr-fantasy 
+- #gr-bounty-hunter 
+- #quartz-sync
 ---
 
 (oneliner:: A square hero searches for a magical chalice.)

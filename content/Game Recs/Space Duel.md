@@ -1,14 +1,14 @@
 ---
 title: "Space Duel"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: y
 tags:
-- gr-na-dev
-- gr-space 
-- gr-supports-multiplayer
-- quartz-sync
+- #gr-na-dev 
+- #gr-space 
+- #gr-supports-multiplayer 
+- #quartz-sync
 ---
 
 (oneliner:: Vectory multiplayer asteroids with color!)

@@ -1,15 +1,15 @@
 ---
 title: "Skiing"
-draft: false
+draft: true
 platforms:
 - atari 2600
 date-spec: y
 tags:
-- gr-na-dev
-- gr-racing
-- gr-contemporary
-- gr-acrobat 
-- quartz-sync
+- #gr-na-dev 
+- #gr-racing 
+- #gr-contemporary 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: Slalom downhill as fast as possible.)

@@ -1,16 +1,16 @@
 ---
 title: "Megamania"
-draft: false
+draft: true
 platforms:
 - atari 2600
 date-spec: d
 tags:
-- gr-na-dev
-- gr-2d-shooter
-- gr-space 
-- gr-sci-fi 
-- gr-acrobat 
-- quartz-sync
+- #gr-na-dev 
+- #gr-2d-shooter 
+- #gr-space 
+- #gr-sci-fi 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: A groovy little shooting game.)

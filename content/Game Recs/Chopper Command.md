@@ -1,16 +1,16 @@
 ---
 title: "Chopper Command"
-draft: false
+draft: true
 platforms:
 - atari 2600
 date-spec: y
 tags:
-- gr-na-dev
-- gr-war 
-- gr-2d-shooter
-- gr-contemporary
-- gr-acrobat 
-- quartz-sync
+- #gr-na-dev 
+- #gr-war 
+- #gr-2d-shooter 
+- #gr-contemporary 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: Defender in the desert.)

@@ -1,15 +1,15 @@
 ---
 title: "Qix"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: m
 tags:
-- gr-jp-dev
-- gr-puzzle 
-- gr-acrobat 
-- gr-maze-game 
-- quartz-sync
+- #gr-jp-dev 
+- #gr-puzzle 
+- #gr-acrobat 
+- #gr-maze-game 
+- #quartz-sync
 ---
 
 (oneliner:: Reclaim sections of the canvas while avoiding hazardous geometry.)

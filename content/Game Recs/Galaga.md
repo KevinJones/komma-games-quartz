@@ -1,16 +1,16 @@
 ---
 title: "Galaga"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: m
 tags:
-- gr-jp-dev
-- gr-shmup 
-- gr-space 
-- gr-sci-fi 
-- gr-acrobat 
-- quartz-sync
+- #gr-jp-dev 
+- #gr-shmup 
+- #gr-space 
+- #gr-sci-fi 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: Shoot down alien formations.)

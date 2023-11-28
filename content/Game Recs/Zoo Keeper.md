@@ -1,15 +1,15 @@
 ---
 title: "Zoo Keeper"
-draft: false
+draft: true
 platforms:
 - here
 date-spec: y
 tags:
-- gr-jp-dev
-- gr-platformer
-- gr-contemporary
-- gr-acrobat 
-- quartz-sync
+- #gr-jp-dev 
+- #gr-platformer 
+- #gr-contemporary 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: How long can you hold the animals in?)

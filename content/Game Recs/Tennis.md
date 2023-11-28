@@ -1,13 +1,13 @@
 ---
 title: "Tennis"
-draft: false
+draft: true
 platforms:
 - here
 date-spec: y
 tags:
-- gr-na-dev
-- gr-contemporary
-- quartz-sync
+- #gr-na-dev 
+- #gr-contemporary 
+- #quartz-sync
 ---
 
 (oneliner:: Minimalist tennis.)

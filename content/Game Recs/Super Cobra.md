@@ -1,14 +1,14 @@
 ---
 title: "Super Cobra"
-draft: false
+draft: true
 platforms:
 - here
 date-spec: m
 tags:
-- gr-jp-dev
-- gr-2d-shooter
-- gr-acrobat 
-- quartz-sync
+- #gr-jp-dev 
+- #gr-2d-shooter 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: An early shmup.)

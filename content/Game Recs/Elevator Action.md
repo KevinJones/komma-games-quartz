@@ -1,17 +1,17 @@
 ---
 title: "Elevator Action"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: y
 tags:
-- gr-acrobat 
-- gr-platformer
-- gr-2d-shooter
-- gr-contemporary
-- gr-crime-and-mystery
-- gr-jp-dev
-- quartz-sync
+- #gr-acrobat 
+- #gr-platformer 
+- #gr-2d-shooter 
+- #gr-contemporary 
+- #gr-crime-and-mystery 
+- #gr-jp-dev 
+- #quartz-sync
 ---
 
 (oneliner:: A super spy extracts documents from a skyscraper with dangerous secrets.)

@@ -1,15 +1,15 @@
 ---
 title: "Lock 'n' Chase"
-draft: false
+draft: true
 platforms:
 - here
 date-spec: d
 tags:
-- gr-jp-dev
-- gr-puzzle 
-- gr-acrobat 
-- gr-maze-game 
-- quartz-sync
+- #gr-jp-dev 
+- #gr-puzzle 
+- #gr-acrobat 
+- #gr-maze-game 
+- #quartz-sync
 ---
 
 (oneliner:: Get the dots, ditch the cops.)

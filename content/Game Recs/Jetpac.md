@@ -1,17 +1,17 @@
 ---
 title: "Jetpac"
-draft: false
+draft: true
 platforms:
 - zx spectrum
 date-spec: y
 tags:
-- gr-eu-dev
-- gr-2d-shooter
-- gr-platformer
-- gr-acrobat 
-- gr-space 
-- gr-sci-fi 
-- quartz-sync
+- #gr-uk-dev 
+- #gr-2d-shooter 
+- #gr-platformer 
+- #gr-acrobat 
+- #gr-space 
+- #gr-sci-fi 
+- #quartz-sync
 ---
 
 (oneliner:: A space traveler must rebuild his rocket and defend himself against hostile aliens.)

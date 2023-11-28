@@ -1,14 +1,14 @@
 ---
 title: "BurgerTime"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: d
 tags:
-- gr-jp-dev
-- gr-acrobat 
-- gr-platformer
-- quartz-sync
+- #gr-jp-dev 
+- #gr-acrobat 
+- #gr-platformer 
+- #quartz-sync
 ---
 
 (oneliner:: Climb ladders to make burgers.)

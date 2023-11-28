@@ -1,15 +1,15 @@
 ---
 title: "Donkey Kong Jr."
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: m
 tags:
-- gr-jp-dev
-- gr-acrobat 
-- gr-platformer
-- gr-contemporary
-- quartz-sync
+- #gr-jp-dev 
+- #gr-acrobat 
+- #gr-platformer 
+- #gr-contemporary 
+- #quartz-sync
 ---
 
 (oneliner:: Jump between ropes and vines to rescue DK from the evil Mario.)

@@ -1,15 +1,15 @@
 ---
 title: "TitleHere"
-draft: false
+draft: true
 platforms:
 - trs-80 CoCo
 date-spec: y
 tags:
-- gr-rpghm
-- gr-real-time-rpg
-- gr-fantasy
-- gr-post-classical
-- quartz-sync
+- #gr-rpghm 
+- #gr-real-time-rpg 
+- #gr-fantasy 
+- #gr-post-classical 
+- #quartz-sync
 ---
 
 (oneliner:: First-person, real time, fantasy maze dungeon.)

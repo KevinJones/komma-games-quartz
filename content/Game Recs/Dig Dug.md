@@ -1,16 +1,16 @@
 ---
 title: "Dig Dug"
-draft: false
+draft: true
 platforms:
 - here
 date-spec: d
 tags:
-- gr-jp-dev
-- gr-maze-game 
-- gr-puzzle 
-- gr-gardener
-- gr-acrobat 
-- quartz-sync
+- #gr-jp-dev 
+- #gr-maze-game 
+- #gr-puzzle 
+- #gr-gardener 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: Dig through soil and burst/crush your enemies.)

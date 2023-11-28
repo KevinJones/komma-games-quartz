@@ -1,14 +1,14 @@
 ---
 title: "Pooyan"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: y
 tags:
-- gr-jp-dev
-- gr-2d-shooter
-- gr-acrobat 
-- quartz-sync
+- #gr-jp-dev 
+- #gr-2d-shooter 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: Shoot down ballooning wolves.)

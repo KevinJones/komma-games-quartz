@@ -1,38 +1,38 @@
 ---
 title: "Game Review Tags"
-draft: false
+draft: true
 tags:
-- gr-meta
-- quartz-sync
+- #gr-meta
+- #quartz-sync
 ---
 
 All tags used on game pages have the "gr-" prefix, to distinguish them from other parts of the garden.
 
 ## Basic Tags
 
-- gr-greatest-hitsare like gold medalists; celebrated classic games that are popular for a reason. You can also think of this tag as "good games that are actually good".
+- #gr-greatest-hits are like gold medalists; celebrated classic games that are popular for a reason. You can also think of this tag as "good games that are actually good".
 	- Ones that appear in the top 100 on videogamecanon are a good start.
-- gr-hidden-gemsare games you might not have heard of that are better than you would expect. I use this mostly for games of previous gaming generations that have been forgotten for whatever reason, even if they used to be popular.
+- #gr-hidden-gems are games you might not have heard of that are better than you would expect. I use this mostly for games of previous gaming generations that have been forgotten for whatever reason, even if they used to be popular.
 	- Any game specifically covered in a YouTube video that has more than 100,000 views is disqualified from being called a hidden gem. This doesn't count soundtrack videos.
-- gr-best-in-multiplayerare games that are much better when played with a person you like.
-- gr-supports-multiplayerare games that have a multiplayer mode worth checking out.
+- #gr-best-in-multiplayer are games that are much better when played with a person you like.
+- #gr-supports-multiplayer are games that have a multiplayer mode worth checking out.
 - #gr-hm are "honorable mentions"; the main list's overflow. There are games that I can't really recommend going out to play casually, but have some interesting impact or history to them. Games with this tag are excluded from the main lists.
-- gr-rpgis a recommended game that meets the RPG criteria, moving it to the RPG lists instead of the main lists.
-- gr-rpghmis an "honorable mention" of a notable RPG, but not one that I recommend as readily as others within that era.
+- #gr-rpg is a recommended game that meets the RPG criteria, moving it to the RPG lists instead of the main lists.
+- #gr-rpghm is an "honorable mention" of a notable RPG, but not one that I recommend as readily as others within that era.
 
 ## Gameplay Tags
 
 ### Action
 
-- gr-2d-shooter - Games where you use ranged weapons to take place in the action in a 2D environment. This includes the likes of Mega Man, Smash TV
-- gr-3d-shooter - Games where you use ranged weapons to take place in the action that allow you to view and navigate a 3D environment. This includes FPS games and third-person "over the shoulder" perspectives.
-- gr-shmup - A particular kind of 2D shooting game where you shoots at a large number of enemies while dodging patterns of relatively slow-moving fire. Games with this tag are not also tagged with #gr-2d-shooter .
-- gr-platformer- Games where the core objective is to move your character between points in an environment of uneven terrain and suspended platforms using acrobatic maneuvers that you have expressive control over. ("Run and gun" games are tagged as shooters and platformers)
-- gr-fighting - Games focused on "evenly matched" hand-to-hand combat between two or more characters, often with mechanics like blocking, grappling, and the ability to chain attacks into combos. Often designed for competitive play between two players.
-- gr-brawler - Games focused on hand-to-hand combat where the player takes on many opponents simultaneously. Often designed for cooperative or single-player play.
-- gr-racing- Any action game where you participate in a racing competition, whether it involves arcade-style simplicity or realistic simulation.
-- gr-action-adventure - Action games that also include significant elements of exploration, puzzle-solving, item management, or interactive storytelling. This is both subjective and quite broad. "Metroidvanias" are action-adventure games that are also platformers.
-- gr-maze-game - A 2D action game taking place entirely in a maze, where players have to do things like escape monsters, outrace an opponent, or navigate all areas of the maze within a time limit. Players often don't have actions other than movement. Maze games where planning ahead is important are also tagged #gr-puzzle . Classic examples include [[Pac-Man]] and [[Wizard of Wor]], while more recent ones include *Super Bomberman R* and *Pix the Cat*.
+- #gr-2d-shooter - Games where you use ranged weapons to take place in the action in a 2D environment. This includes the likes of Mega Man, Smash TV
+- #gr-3d-shooter - Games where you use ranged weapons to take place in the action that allow you to view and navigate a 3D environment. This includes FPS games and third-person "over the shoulder" perspectives.
+- #gr-shmup - A particular kind of 2D shooting game where you shoots at a large number of enemies while dodging patterns of relatively slow-moving fire. Games with this tag are not also tagged with #gr-2d-shooter .
+- #gr-platformer - Games where the core objective is to move your character between points in an environment of uneven terrain and suspended platforms using acrobatic maneuvers that you have expressive control over. ("Run and gun" games are tagged as shooters and platformers)
+- #gr-fighting - Games focused on "evenly matched" hand-to-hand combat between two or more characters, often with mechanics like blocking, grappling, and the ability to chain attacks into combos. Often designed for competitive play between two players.
+- #gr-brawler - Games focused on hand-to-hand combat where the player takes on many opponents simultaneously. Often designed for cooperative or single-player play.
+- #gr-racing - Any action game where you participate in a racing competition, whether it involves arcade-style simplicity or realistic simulation.
+- #gr-action-adventure - Action games that also include significant elements of exploration, puzzle-solving, item management, or interactive storytelling. This is both subjective and quite broad. "Metroidvanias" are action-adventure games that are also platformers.
+- #gr-maze-game - A 2D action game taking place entirely in a maze, where players have to do things like escape monsters, outrace an opponent, or navigate all areas of the maze within a time limit. Players often don't have actions other than movement. Maze games where planning ahead is important are also tagged #gr-puzzle . Classic examples include [[Pac-Man]] and [[Wizard of Wor]], while more recent ones include *Super Bomberman R* and *Pix the Cat*.
 
 ### Strategy
 
@@ -52,8 +52,8 @@ In video games, "strategy" almost always refers to a game that simulates large-s
 RPG definition: development, combat, inventory. [[GR - What is an RPG Video Game|See more]].
 
 - #gr-action-rpg is an RPG where your timing and reflexes matter, usually because you have real-time continuous control over your character. Examples include *Torchlight*, *Dark Souls*, and *Odin Sphere*.
-- gr-real-time-rpgis an RPG with real-time combat but gives you the tools to automate or pause the action. Examples include *Final Fantasy XII*, *Fallout 3*, and *Baldur's Gate*.
-- gr-turn-based-rpgis an RPG where the action unfolds in a strictly turn-based manner and characters can't generally act simultaneously. Examples include *Dragon Quest XI*, *Darkest Dungeon*, and *XCOM*.
+- #gr-real-time-rpg is an RPG with real-time combat but gives you the tools to automate or pause the action. Examples include *Final Fantasy XII*, *Fallout 3*, and *Baldur's Gate*.
+- #gr-turn-based-rpg is an RPG where the action unfolds in a strictly turn-based manner and characters can't generally act simultaneously. Examples include *Dragon Quest XI*, *Darkest Dungeon*, and *XCOM*.
 
 ### Simulator
 
@@ -68,24 +68,24 @@ RPG definition: development, combat, inventory. [[GR - What is an RPG Video Game
 ### Other Tags
 
 - #gr-pure-adventure - Games that focus on people, plots, and puzzles, often with a simple "point-and-click" interface. I call them "pure" because they don't include elements of action or strategy. *Grim Fandango* is a pure adventure game, while *Ocarina of Time* is not.
-- gr-puzzle - any game where you primarily solve puzzles using logic, pattern recognition, sequence solving, or spatial reasoning. This includes games that require quick thinking such as *Puyo Puyo* as well as more laid-back experiences.
+- #gr-puzzle - any game where you primarily solve puzzles using logic, pattern recognition, sequence solving, or spatial reasoning. This includes games that require quick thinking such as *Puyo Puyo* as well as more laid-back experiences.
 - #gr-cardboard - Video games that adapt an existing card or board game to digital form, or simulate one that could exist.
 
 ## Theme Tags
 
 - By setting time period
 	- #gr-ancient - games set in a bronze age or iron age culture, such as Ancient Greece or Ancient Egypt.
-	- gr-post-classical- games set in post-classical history from about 500 CE to 1500, such as Medieval Europe or the Three Kingdoms period in China.
-	- gr-modern-history- games set during the time of Europe's Renaissance or Industrial Revolution periods; about 1500 CE to 1945.
-	- gr-contemporary- games set in a world like ours from 1945 to the present time, including the near-future.
-	- gr-futuristic- games set in a speculated future, with a high tech feeling.
-	- gr-space - futuristic games featuring space travel.
+	- #gr-post-classical - games set in post-classical history from about 500 CE to 1500, such as Medieval Europe or the Three Kingdoms period in China.
+	- #gr-modern-history - games set during the time of Europe's Renaissance or Industrial Revolution periods; about 1500 CE to 1945.
+	- #gr-contemporary - games set in a world like ours from 1945 to the present time, including the near-future.
+	- #gr-futuristic - games set in a speculated future, with a high tech feeling.
+	- #gr-space - futuristic games featuring space travel.
 - #gr-historical - attempts to represent a historical setting more-or-less accurately.
-- gr-horror - any game that feels like horror fiction, seeking to elicit an entertaining fear or disgust, regardless of the type of gameplay.
-- gr-fantasy- games that make the impossible seem real, often with a narrative inspired by human myth and in a fictional universe. Contrast with "historical".
-- gr-sci-fi - games that have some grounding (even loosely) in science and logic, with a story that explores the consequences of scientific advancement or new discoveries.
-- gr-war - games set in a real or fictional military conflict where you play as a soldier, general, or military technician. Fantasy or far-future wars aren't included.
-- gr-crime-and-mystery- games about crime or its detection.
+- #gr-horror - any game that feels like horror fiction, seeking to elicit an entertaining fear or disgust, regardless of the type of gameplay.
+- #gr-fantasy - games that make the impossible seem real, often with a narrative inspired by human myth and in a fictional universe. Contrast with "historical".
+- #gr-sci-fi - games that have some grounding (even loosely) in science and logic, with a story that explores the consequences of scientific advancement or new discoveries.
+- #gr-war - games set in a real or fictional military conflict where you play as a soldier, general, or military technician. Fantasy or far-future wars aren't included.
+- #gr-crime-and-mystery - games about crime or its detection.
 
 ## Gamer Profile Tags
 

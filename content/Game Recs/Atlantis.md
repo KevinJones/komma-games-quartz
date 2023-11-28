@@ -1,16 +1,16 @@
 ---
 title: "Atlantis"
-draft: false
+draft: true
 platforms:
 - atari 2600
 date-spec: m
 tags:
-- gr-na-dev
-- gr-acrobat 
-- gr-2d-shooter
-- gr-fantasy
-- gr-futuristic
-- quartz-sync
+- #gr-na-dev 
+- #gr-acrobat 
+- #gr-2d-shooter 
+- #gr-fantasy 
+- #gr-futuristic 
+- #quartz-sync
 ---
 
 (oneliner:: Fire shots diagonally to take down enemies.)

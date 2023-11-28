@@ -1,17 +1,17 @@
 ---
 title: "TitleHere"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: y
 tags:
-- gr-jp-dev
-- gr-platformer
-- gr-maze-game 
-- gr-puzzle 
-- gr-acrobat 
-- gr-fantasy
-- quartz-sync
+- #gr-jp-dev 
+- #gr-platformer 
+- #gr-maze-game 
+- #gr-puzzle 
+- #gr-acrobat 
+- #gr-fantasy 
+- #quartz-sync
 ---
 
 (oneliner:: A clown in a castle sends unicorn monsters plummeting to their demise.)

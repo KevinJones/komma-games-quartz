@@ -1,14 +1,14 @@
 ---
 title: "Libble Rabble"
-draft: false
+draft: true
 platforms:
 - arcade
 - snes
 date-spec: y
 tags:
-- gr-jp-dev
-- gr-acrobat 
-- quartz-sync
+- #gr-jp-dev 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: Lasso monsters together.)

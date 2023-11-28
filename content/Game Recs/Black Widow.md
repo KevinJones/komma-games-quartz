@@ -1,14 +1,14 @@
 ---
 title: "Black Widow"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: y
 tags:
-- gr-na-dev
-- gr-2d-shooter
-- gr-acrobat 
-- quartz-sync
+- #gr-na-dev 
+- #gr-2d-shooter 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: A frantic insect shooter.)

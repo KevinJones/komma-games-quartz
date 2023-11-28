@@ -1,14 +1,14 @@
 ---
 title: "Dolphin"
-draft: false
+draft: true
 platforms:
 - atari 2600
 date-spec: y
 tags:
-- gr-racing
-- gr-na-dev
-- gr-acrobat 
-- quartz-sync
+- #gr-racing 
+- #gr-na-dev 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: A dolphin uses sonar to flee a giant squid.)

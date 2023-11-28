@@ -1,15 +1,15 @@
 ---
 title: "Crackpots"
-draft: false
+draft: true
 platforms:
 - atari 2600
 date-spec: y
 tags:
-- gr-na-dev
-- gr-acrobat 
-- gr-2d-shooter
-- gr-contemporary
-- quartz-sync
+- #gr-na-dev 
+- #gr-acrobat 
+- #gr-2d-shooter 
+- #gr-contemporary 
+- #quartz-sync
 ---
 
 (oneliner:: Drop flower pots on bugs.)

@@ -1,16 +1,16 @@
 ---
 title: "Yars' Revenge"
-draft: false
+draft: true
 platforms:
 - atari 2600
 date-spec: m
 tags:
-- gr-acrobat 
-- gr-na-dev
-- gr-2d-shooter
-- gr-space 
-- gr-sci-fi 
-- quartz-sync
+- #gr-acrobat 
+- #gr-na-dev 
+- #gr-2d-shooter 
+- #gr-space 
+- #gr-sci-fi 
+- #quartz-sync
 ---
 
 (oneliner:: Describe this game.)

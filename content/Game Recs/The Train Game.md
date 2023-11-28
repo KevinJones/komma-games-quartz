@@ -1,17 +1,17 @@
 ---
 title: "The Train Game"
-draft: false
+draft: true
 platforms:
 - zx spectrum
 date-spec: y
 tags:
 
-- gr-acrobat 
-- gr-architect
-- gr-puzzle 
-- gr-contemporary
-- gr-eu-dev
-- quartz-sync
+- #gr-acrobat 
+- #gr-architect 
+- #gr-puzzle 
+- #gr-contemporary 
+- #gr-uk-dev 
+- #quartz-sync
 ---
 
 

@@ -1,16 +1,16 @@
 ---
 title: "TitleHere"
-draft: false
+draft: true
 platforms:
 - atari 2600
 date-spec: y
 tags:
-- gr-na-dev
-- gr-2d-shooter
-- gr-sci-fi 
-- gr-acrobat 
-- gr-hidden-gems
-- quartz-sync
+- #gr-na-dev 
+- #gr-2d-shooter 
+- #gr-sci-fi 
+- #gr-acrobat 
+- #gr-hidden-gems 
+- #quartz-sync
 ---
 
 (oneliner:: Aesthetic perspective shooter.)

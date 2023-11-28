@@ -1,16 +1,16 @@
 ---
 title: "Chuckie Egg"
-draft: false
+draft: true
 platforms:
 - zx spectrum
 - bbc micro
 date-spec: y
 tags:
-- gr-eu-dev
-- gr-platformer
-- gr-acrobat 
-- gr-contemporary
-- quartz-sync
+- #gr-uk-dev 
+- #gr-platformer 
+- #gr-acrobat 
+- #gr-contemporary 
+- #quartz-sync
 ---
 
 (oneliner:: Collect eggs, avoid ducks.)

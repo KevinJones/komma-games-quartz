@@ -3,8 +3,8 @@ title: "TTRPGs You Can Play For Free"
 tags:
 - ttrpg-gaming 
 - atom
-- lists 
-- quartz-sync
+- #lists 
+- #quartz-sync
 ---
 
 This is a list of tabletop RPGs that you can download (or read online) and start playing for free. Only games that have the necessary rules for both players and the GM are free. This isn't an exhaustive list; it's just ones that I think are a cut above average. Don't forget to support the authors and publishers of games that you like!

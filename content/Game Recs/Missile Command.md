@@ -1,16 +1,16 @@
 ---
 title: "Missile Command"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: m
 tags:
-- gr-na-dev
-- gr-2d-shooter
-- gr-contemporary
-- gr-acrobat 
-- gr-war
-- quartz-sync
+- #gr-na-dev 
+- #gr-2d-shooter 
+- #gr-contemporary 
+- #gr-acrobat 
+- #gr-war
+- #quartz-sync
 ---
 
 (oneliner:: Defend cities from ballistic missiles.)

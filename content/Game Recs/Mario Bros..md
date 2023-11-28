@@ -1,18 +1,18 @@
 ---
 title: "Mario Bros."
-draft: false
+draft: true
 platforms:
 - arcade
 - nes
 date-spec: y
 tags:
-- gr-jp-dev
-- gr-acrobat 
-- gr-supports-multiplayer
-- gr-skirmisher
-- gr-platformer
-- gr-contemporary
-- quartz-sync
+- #gr-jp-dev 
+- #gr-acrobat 
+- #gr-supports-multiplayer 
+- #gr-skirmisher 
+- #gr-platformer 
+- #gr-contemporary 
+- #quartz-sync
 ---
 
 (oneliner:: Clean up the sewers as Luigi and Mario.)

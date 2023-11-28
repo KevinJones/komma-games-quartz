@@ -1,14 +1,14 @@
 ---
 title: "TitleHere"
-draft: false
+draft: true
 platforms:
 - atari 2600
 date-spec: y
 tags:
-- gr-racing
-- gr-contemporary
-- gr-na-dev
-- quartz-sync
+- #gr-racing 
+- #gr-contemporary 
+- #gr-na-dev 
+- #quartz-sync
 ---
 
 (oneliner:: How quickly can you fly through barns?)

@@ -1,18 +1,18 @@
 ---
 title: "TitleHere"
-draft: false
+draft: true
 platforms:
 - c64
 - nes
 - lynx
 date-spec: y
 tags:
-- gr-na-dev
-- gr-puzzle 
-- gr-platformer
-- gr-architect
-- gr-acrobat 
-- quartz-sync
+- #gr-na-dev 
+- #gr-puzzle 
+- #gr-platformer 
+- #gr-architect 
+- #gr-acrobat 
+- #quartz-sync
 ---
 
 (oneliner:: Climb ladders, dig pits to trap enemies, and collect gold.)

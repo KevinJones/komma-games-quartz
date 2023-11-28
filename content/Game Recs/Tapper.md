@@ -1,15 +1,15 @@
 ---
 title: "Tapper"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: d
 tags:
-- gr-acrobat 
-- gr-2d-shooter
-- gr-contemporary
-- gr-na-dev
-- quartz-sync
+- #gr-acrobat 
+- #gr-2d-shooter 
+- #gr-contemporary 
+- #gr-na-dev 
+- #quartz-sync
 ---
 
 (oneliner:: Serve beer (or root beer) to impatient customers.)

@@ -1,18 +1,18 @@
 ---
 title: "Heiankyo Alien"
-draft: false
+draft: true
 platforms:
 - pc-8801
 - arcade
 date-spec: y
 tags:
-- gr-jp-dev
-- gr-puzzle 
-- gr-post-classical
-- gr-fantasy
-- gr-acrobat 
-- gr-maze-game 
-- quartz-sync
+- #gr-jp-dev 
+- #gr-puzzle 
+- #gr-post-classical 
+- #gr-fantasy 
+- #gr-acrobat 
+- #gr-maze-game 
+- #quartz-sync
 ---
 
 (oneliner:: Dig holes to trap aliens.)

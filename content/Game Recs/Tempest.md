@@ -1,14 +1,14 @@
 ---
 title: "Tempest"
-draft: false
+draft: true
 platforms:
 - arcade
 date-spec: m
 tags:
-- gr-shmup 
-- gr-acrobat 
-- gr-na-dev
-- quartz-sync
+- #gr-shmup 
+- #gr-acrobat 
+- #gr-na-dev 
+- #quartz-sync
 ---
 
 (oneliner:: A stylish vector shmup.)
