@@ -1,5 +1,7 @@
-#quartz-sync
-
+---
+tags:
+  - quartz-sync
+---
 What does this list consider an RPG?
 - Either it meets all these criteria:
 	1. It is primarily a single-player or cooperative experience, rather than competitive.

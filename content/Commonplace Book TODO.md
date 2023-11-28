@@ -1,8 +1,11 @@
+---
+tags:
+  - meta
+---
 #meta 
 
-- [x] Refactor references to "gamerecs/" folder to "Game Recs/"
-- [x] Refactor "#sync" to "quartz-sync"
-- [ ] Review notes, add #quartz-sync , #nosync , or #needs-work tag as appropriate
+- [ ] Review notes, add \#sync, \#nosync , or \#needs-work tag as appropriate
+- [ ] reviw stuff in "Zim Notebooks" folder in documents
 
 Dataview of notes that do not have one of those three tags:
 ```dataview

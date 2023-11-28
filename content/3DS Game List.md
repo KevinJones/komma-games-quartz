@@ -1,4 +1,10 @@
-#lists #video-gaming #3ds #quartz-sync 
+---
+tags:
+  - lists
+  - video-gaming
+  - 3ds
+  - quartz-sync
+---
 
 This is a list of interesting-enough 3DS games, grouped by publisher and franchise. Updated Sep 2022, as there are no more 3DS games coming out.
 

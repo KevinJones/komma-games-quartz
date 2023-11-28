@@ -1,4 +1,8 @@
-#languages #quartz-sync 
+---
+tags:
+  - languages
+  - quartz-sync
+---
 - Japanese (spoken in the main islands of Japan) and the Ryukyuan languages (spoken in the archiopelago in Japan's south)
 - Japanese dialects are further divided:
     - Eastern Japanese--east of Nagoya, including Tokyo dialect

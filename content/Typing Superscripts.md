@@ -1,4 +1,7 @@
-#quartz-sync 
+---
+tags:
+  - quartz-sync
+---
 
 In obsidian: use the `<sup>` HTML tag.
 

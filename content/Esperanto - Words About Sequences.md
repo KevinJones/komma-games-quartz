@@ -1,5 +1,9 @@
-#languages #esperanto #quartz-sync 
-
+---
+tags:
+  - languages
+  - esperanto
+  - quartz-sync
+---
 **unua** - first, either numerically or before anything else.
 
 **antaŭa** - previous, prior.

@@ -1,6 +1,10 @@
-#quartz-sync #meta
+---
+tags:
+  - quartz-sync
+  - meta
+---
 ## 1. Writing makes you smarter.
-- Use full sentences in your own words on anything more than a #fleeting note.
+- Use full sentences in your own words on anything more than a \#fleeting note.
 
 ## 2. Keep the system simple.
 - Use folders *only* for fictional contexts that you'll want to exclude from the main pages.

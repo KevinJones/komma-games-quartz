@@ -1,5 +1,10 @@
-#fleeting #languages #apps #quartz-sync 
-
+---
+tags:
+  - fleeting
+  - languages
+  - apps
+  - quartz-sync
+---
 Updated Sep 2023. Prices may vary.
 
 **Super Duolingo** costs $10 USD a month or $84 a year.

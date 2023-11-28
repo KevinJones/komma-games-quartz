@@ -13,8 +13,8 @@ An affine transformation is one that keeps lines parallel, but not necessarily a
 
 ```
 [   a    c    tx
-	b    d    ty
-	0    0    1    ]
+    b    d    ty
+    0    0    1    ]
 ```
 
 a, b, c, and d are used for things like scaling, rotation, shear, and so on. tx and ty are translations. To use this, you will place your matrix with the x y coordinates on the right.
